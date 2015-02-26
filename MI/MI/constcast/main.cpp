@@ -1,0 +1,33 @@
+//
+//  main.cpp
+//  constcast
+//
+//  Created by Steven Chang on 2/13/15.
+//  Copyright (c) 2015 Steven Chang. All rights reserved.
+//
+
+#include <iostream>
+
+using namespace std;
+
+void change(const int *pt,int n);
+
+int main()
+{
+    int pop1 = 38383;
+    const int pop2 = 2000;
+    
+    cout << "pop1,pop2: " << pop1 << ", " << pop2 <<endl;
+    change(&pop1,-103);
+    change(&pop2,-103);
+    cout << "pop1,pop2: " << pop1 << ", " << pop2 <<endl;
+    return 0;
+}
+
+void change(const int *pt,int n)
+{
+    int *pc;
+    
+    pc = const_cast<int *>(pt);
+    *pc += n;
+}
