@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>1647.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
 		<key>1696.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -29,10 +34,25 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>4.2.1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>ACM-Practice.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Ex2-4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>LK.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
 		</dict>
 		<key>new.xcscheme</key>
 		<dict>
@@ -42,6 +62,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A58E4B351AAABFBE00485668</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A59366FE1A9860FF008DBC5A</key>
 		<dict>
 			<key>primary</key>
@@ -68,6 +93,21 @@
 			<true/>
 		</dict>
 		<key>A593673D1A988FF3008DBC5A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5A82CDE1AB6DA5600084FED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5C828CA1AA1B4480038A7A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5C828DB1AA1C30E0038A7A1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

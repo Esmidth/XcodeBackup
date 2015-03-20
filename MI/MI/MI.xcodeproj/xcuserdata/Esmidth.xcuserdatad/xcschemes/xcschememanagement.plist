@@ -79,6 +79,11 @@
 			<key>orderHint</key>
 			<integer>24</integer>
 		</dict>
+		<key>TemplateFunc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
 		<key>Tempmemb.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -139,6 +144,11 @@
 			<key>orderHint</key>
 			<integer>10</integer>
 		</dict>
+		<key>map_test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
 		<key>multimap.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -158,6 +168,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>15</integer>
+		</dict>
+		<key>set_test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
 		</dict>
 		<key>setops.xcscheme</key>
 		<dict>
@@ -232,6 +247,16 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>A52DCF3A1AA418830049E932</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A52DCF451AA44D5A0049E932</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A54A81161A9C1131002F7060</key>
 		<dict>
 			<key>primary</key>
@@ -258,6 +283,11 @@
 			<true/>
 		</dict>
 		<key>A54A814D1A9C4D5F002F7060</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A55692B61AA45371004CED7C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
