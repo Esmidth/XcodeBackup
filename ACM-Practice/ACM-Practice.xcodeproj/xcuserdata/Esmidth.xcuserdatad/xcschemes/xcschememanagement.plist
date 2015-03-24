@@ -49,6 +49,11 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>Ex5-6 TeamQueue UVa 540.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>LK.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -62,6 +67,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A5820C981ABC509800BCA5BC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A58E4B351AAABFBE00485668</key>
 		<dict>
 			<key>primary</key>

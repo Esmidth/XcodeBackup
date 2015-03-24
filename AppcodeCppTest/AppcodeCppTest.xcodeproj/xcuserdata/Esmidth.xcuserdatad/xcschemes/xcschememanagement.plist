@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>HHH.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>LKK.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -22,6 +27,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A560D5A41AC16FBF00081434</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A5A871061AB479CF00CBE87A</key>
 		<dict>
 			<key>primary</key>
