@@ -8,9 +8,21 @@
 
 #include <stdio.h>
 
-int main() {
-    int a;
-    while(scanf("%d",&a) && a <= 8 && a >=1){
-        printf("%d %d %d\n%d   %d\n%d %d %d\n",a-1,a-1,a-1,a,a,a+1,a+1,a+1);
+void factorial(int n);
+
+int main(void)
+{
+    int n;
+    scanf("%d",&n);
+    factorial(n);
+    return 0;
+}
+
+void factorial(int n)
+{
+    if (1 <= n && n <= 8) {
+        printf("%d %d %d\n",n-1,n-1,n-1);
+        printf("%d   %d\n",n,n);
+        printf("%d %d %d\n",n+1,n+1,n+1);
     }
 }

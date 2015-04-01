@@ -44,6 +44,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>Al V4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
 		<key>Ex2-4.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -103,6 +108,11 @@
 			<true/>
 		</dict>
 		<key>A593673D1A988FF3008DBC5A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A59F5B331ACAA81D00CD538F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
