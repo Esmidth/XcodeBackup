@@ -1,0 +1,312 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A5D8E2691ACD926100F823D3 /* Alarms.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E24F1ACD926100F823D3 /* Alarms.cpp */; };
+		A5D8E26A1ACD926100F823D3 /* EEPROM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2531ACD926100F823D3 /* EEPROM.cpp */; };
+		A5D8E26B1ACD926100F823D3 /* GPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2551ACD926100F823D3 /* GPS.cpp */; };
+		A5D8E26C1ACD926100F823D3 /* IMU.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2571ACD926100F823D3 /* IMU.cpp */; };
+		A5D8E26D1ACD926100F823D3 /* LCD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2591ACD926100F823D3 /* LCD.cpp */; };
+		A5D8E26E1ACD926100F823D3 /* MultiWii.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E25B1ACD926100F823D3 /* MultiWii.cpp */; };
+		A5D8E26F1ACD926100F823D3 /* Output.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E25E1ACD926100F823D3 /* Output.cpp */; };
+		A5D8E2701ACD926100F823D3 /* Protocol.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2601ACD926100F823D3 /* Protocol.cpp */; };
+		A5D8E2711ACD926100F823D3 /* RX.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2621ACD926100F823D3 /* RX.cpp */; };
+		A5D8E2721ACD926100F823D3 /* Sensors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2641ACD926100F823D3 /* Sensors.cpp */; };
+		A5D8E2731ACD926100F823D3 /* Serial.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D8E2661ACD926100F823D3 /* Serial.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A5D8E2421ACD920B00F823D3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		A5D8E2441ACD920B00F823D3 /* MW1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MW1; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5D8E24E1ACD926100F823D3 /* Alarms.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Alarms.h; sourceTree = "<group>"; };
+		A5D8E24F1ACD926100F823D3 /* Alarms.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Alarms.cpp; sourceTree = "<group>"; };
+		A5D8E2501ACD926100F823D3 /* config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		A5D8E2511ACD926100F823D3 /* CREDITS.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CREDITS.txt; sourceTree = "<group>"; };
+		A5D8E2521ACD926100F823D3 /* def.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = def.h; sourceTree = "<group>"; };
+		A5D8E2531ACD926100F823D3 /* EEPROM.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EEPROM.cpp; sourceTree = "<group>"; };
+		A5D8E2541ACD926100F823D3 /* EEPROM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EEPROM.h; sourceTree = "<group>"; };
+		A5D8E2551ACD926100F823D3 /* GPS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GPS.cpp; sourceTree = "<group>"; };
+		A5D8E2561ACD926100F823D3 /* GPS.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GPS.h; sourceTree = "<group>"; };
+		A5D8E2571ACD926100F823D3 /* IMU.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = IMU.cpp; sourceTree = "<group>"; };
+		A5D8E2581ACD926100F823D3 /* IMU.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IMU.h; sourceTree = "<group>"; };
+		A5D8E2591ACD926100F823D3 /* LCD.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LCD.cpp; sourceTree = "<group>"; };
+		A5D8E25A1ACD926100F823D3 /* LCD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCD.h; sourceTree = "<group>"; };
+		A5D8E25B1ACD926100F823D3 /* MultiWii.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MultiWii.cpp; sourceTree = "<group>"; };
+		A5D8E25C1ACD926100F823D3 /* MultiWii.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MultiWii.h; sourceTree = "<group>"; };
+		A5D8E25D1ACD926100F823D3 /* MultiWii.ino */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = MultiWii.ino; sourceTree = "<group>"; };
+		A5D8E25E1ACD926100F823D3 /* Output.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Output.cpp; sourceTree = "<group>"; };
+		A5D8E25F1ACD926100F823D3 /* Output.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Output.h; sourceTree = "<group>"; };
+		A5D8E2601ACD926100F823D3 /* Protocol.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Protocol.cpp; sourceTree = "<group>"; };
+		A5D8E2611ACD926100F823D3 /* Protocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Protocol.h; sourceTree = "<group>"; };
+		A5D8E2621ACD926100F823D3 /* RX.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = RX.cpp; sourceTree = "<group>"; };
+		A5D8E2631ACD926100F823D3 /* RX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RX.h; sourceTree = "<group>"; };
+		A5D8E2641ACD926100F823D3 /* Sensors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Sensors.cpp; sourceTree = "<group>"; };
+		A5D8E2651ACD926100F823D3 /* Sensors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sensors.h; sourceTree = "<group>"; };
+		A5D8E2661ACD926100F823D3 /* Serial.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Serial.cpp; sourceTree = "<group>"; };
+		A5D8E2671ACD926100F823D3 /* Serial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Serial.h; sourceTree = "<group>"; };
+		A5D8E2681ACD926100F823D3 /* types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = types.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A5D8E2411ACD920B00F823D3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A5D8E23B1ACD920B00F823D3 = {
+			isa = PBXGroup;
+			children = (
+				A5D8E2461ACD920B00F823D3 /* MW1 */,
+				A5D8E2451ACD920B00F823D3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A5D8E2451ACD920B00F823D3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A5D8E2441ACD920B00F823D3 /* MW1 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A5D8E2461ACD920B00F823D3 /* MW1 */ = {
+			isa = PBXGroup;
+			children = (
+				A5D8E24E1ACD926100F823D3 /* Alarms.h */,
+				A5D8E24F1ACD926100F823D3 /* Alarms.cpp */,
+				A5D8E2501ACD926100F823D3 /* config.h */,
+				A5D8E2511ACD926100F823D3 /* CREDITS.txt */,
+				A5D8E2521ACD926100F823D3 /* def.h */,
+				A5D8E2531ACD926100F823D3 /* EEPROM.cpp */,
+				A5D8E2541ACD926100F823D3 /* EEPROM.h */,
+				A5D8E2551ACD926100F823D3 /* GPS.cpp */,
+				A5D8E2561ACD926100F823D3 /* GPS.h */,
+				A5D8E2571ACD926100F823D3 /* IMU.cpp */,
+				A5D8E2581ACD926100F823D3 /* IMU.h */,
+				A5D8E2591ACD926100F823D3 /* LCD.cpp */,
+				A5D8E25A1ACD926100F823D3 /* LCD.h */,
+				A5D8E25B1ACD926100F823D3 /* MultiWii.cpp */,
+				A5D8E25C1ACD926100F823D3 /* MultiWii.h */,
+				A5D8E25D1ACD926100F823D3 /* MultiWii.ino */,
+				A5D8E25E1ACD926100F823D3 /* Output.cpp */,
+				A5D8E25F1ACD926100F823D3 /* Output.h */,
+				A5D8E2601ACD926100F823D3 /* Protocol.cpp */,
+				A5D8E2611ACD926100F823D3 /* Protocol.h */,
+				A5D8E2621ACD926100F823D3 /* RX.cpp */,
+				A5D8E2631ACD926100F823D3 /* RX.h */,
+				A5D8E2641ACD926100F823D3 /* Sensors.cpp */,
+				A5D8E2651ACD926100F823D3 /* Sensors.h */,
+				A5D8E2661ACD926100F823D3 /* Serial.cpp */,
+				A5D8E2671ACD926100F823D3 /* Serial.h */,
+				A5D8E2681ACD926100F823D3 /* types.h */,
+			);
+			path = MW1;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A5D8E2431ACD920B00F823D3 /* MW1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5D8E24B1ACD920B00F823D3 /* Build configuration list for PBXNativeTarget "MW1" */;
+			buildPhases = (
+				A5D8E2401ACD920B00F823D3 /* Sources */,
+				A5D8E2411ACD920B00F823D3 /* Frameworks */,
+				A5D8E2421ACD920B00F823D3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MW1;
+			productName = MW1;
+			productReference = A5D8E2441ACD920B00F823D3 /* MW1 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A5D8E23C1ACD920B00F823D3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = "Steven Chang";
+				TargetAttributes = {
+					A5D8E2431ACD920B00F823D3 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+				};
+			};
+			buildConfigurationList = A5D8E23F1ACD920B00F823D3 /* Build configuration list for PBXProject "MW1" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A5D8E23B1ACD920B00F823D3;
+			productRefGroup = A5D8E2451ACD920B00F823D3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A5D8E2431ACD920B00F823D3 /* MW1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A5D8E2401ACD920B00F823D3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5D8E26E1ACD926100F823D3 /* MultiWii.cpp in Sources */,
+				A5D8E26A1ACD926100F823D3 /* EEPROM.cpp in Sources */,
+				A5D8E2731ACD926100F823D3 /* Serial.cpp in Sources */,
+				A5D8E2721ACD926100F823D3 /* Sensors.cpp in Sources */,
+				A5D8E26B1ACD926100F823D3 /* GPS.cpp in Sources */,
+				A5D8E2701ACD926100F823D3 /* Protocol.cpp in Sources */,
+				A5D8E2711ACD926100F823D3 /* RX.cpp in Sources */,
+				A5D8E26F1ACD926100F823D3 /* Output.cpp in Sources */,
+				A5D8E26D1ACD926100F823D3 /* LCD.cpp in Sources */,
+				A5D8E2691ACD926100F823D3 /* Alarms.cpp in Sources */,
+				A5D8E26C1ACD926100F823D3 /* IMU.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A5D8E2491ACD920B00F823D3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A5D8E24A1ACD920B00F823D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A5D8E24C1ACD920B00F823D3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5D8E24D1ACD920B00F823D3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A5D8E23F1ACD920B00F823D3 /* Build configuration list for PBXProject "MW1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5D8E2491ACD920B00F823D3 /* Debug */,
+				A5D8E24A1ACD920B00F823D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5D8E24B1ACD920B00F823D3 /* Build configuration list for PBXNativeTarget "MW1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5D8E24C1ACD920B00F823D3 /* Debug */,
+				A5D8E24D1ACD920B00F823D3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A5D8E23C1ACD920B00F823D3 /* Project object */;
+}

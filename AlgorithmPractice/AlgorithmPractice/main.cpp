@@ -6,10 +6,26 @@
 //  Copyright (c) 2015 Steven Chang. All rights reserved.
 //
 
-#include <iostream>
+#include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main()
+{
+    int temp;
+    int num[10];
+    int i = 0;
+    while (scanf("%d",&temp)) {
+        num[i] = temp;
+        i++;
+    }
+    printf("\n");
+    for (int ii = i-1;ii>=0 ; ii--) {
+        printf("%d ",num[ii]);
+    }
+    printf("\n");
+    for (int ii = i-1; ii>=0; ii--) {
+        printf("%d",num[ii]);
+    }
+    printf("\n");
+    printf("%d",i);
+    
 }

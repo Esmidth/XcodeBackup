@@ -49,6 +49,21 @@
 			<key>orderHint</key>
 			<integer>12</integer>
 		</dict>
+		<key>Al V5.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>DP(Homework#1).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>Dynamic Programming.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>Ex2-4.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -64,6 +79,11 @@
 			<key>orderHint</key>
 			<integer>10</integer>
 		</dict>
+		<key>Over_and_over(Homework#1).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>new.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -72,6 +92,16 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A544F6A71AD0E82D0039AC11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A544F6B21AD0E86E0039AC11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A5820C981ABC509800BCA5BC</key>
 		<dict>
 			<key>primary</key>
@@ -117,6 +147,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>A5A4FB091AD27CC3006359E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A5A82CDE1AB6DA5600084FED</key>
 		<dict>
 			<key>primary</key>
@@ -128,6 +163,11 @@
 			<true/>
 		</dict>
 		<key>A5C828DB1AA1C30E0038A7A1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5CC5E5E1ACCC67C007D8E95</key>
 		<dict>
 			<key>primary</key>
 			<true/>
