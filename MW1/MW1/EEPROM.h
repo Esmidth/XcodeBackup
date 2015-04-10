@@ -11,3 +11,6 @@ void readPLog(void);
 void writePLog(void);
 
 #endif /* EEPROM_H_ */
+
+//EEPROM
+//Electrically Erasable Programmable Read-Only Memory
