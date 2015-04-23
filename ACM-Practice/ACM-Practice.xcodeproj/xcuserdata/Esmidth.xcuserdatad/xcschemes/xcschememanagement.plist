@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>1339.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
 		<key>1342.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -13,6 +18,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>9</integer>
+		</dict>
+		<key>1685.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>1687.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
 		</dict>
 		<key>1696.xcscheme</key>
 		<dict>
@@ -84,6 +99,11 @@
 			<key>orderHint</key>
 			<integer>16</integer>
 		</dict>
+		<key>TempTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
 		<key>new.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -98,6 +118,11 @@
 			<true/>
 		</dict>
 		<key>A544F6B21AD0E86E0039AC11</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A54A719F1AE4A3730010B152</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -173,6 +198,21 @@
 			<true/>
 		</dict>
 		<key>A5CFFD231A9A1D9A006E59EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8A8BE8C28E96C8BDC684D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8AA0DFD590294A7541431</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8AC7B3EF247293B569381</key>
 		<dict>
 			<key>primary</key>
 			<true/>

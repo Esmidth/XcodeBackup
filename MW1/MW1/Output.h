@@ -9,3 +9,5 @@ void writeServos();
 void writeMotors();
 
 #endif /* OUTPUT_H_ */
+
+//ESC - Electronic Speed Control
