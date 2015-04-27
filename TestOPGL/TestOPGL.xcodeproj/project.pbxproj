@@ -1,0 +1,430 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A526B2B41AEA617F001C2890 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A526B2B31AEA617F001C2890 /* AppDelegate.m */; };
+		A526B2B61AEA617F001C2890 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A526B2B51AEA617F001C2890 /* main.m */; };
+		A526B2B91AEA617F001C2890 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A526B2B81AEA617F001C2890 /* ViewController.m */; };
+		A526B2BB1AEA617F001C2890 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A526B2BA1AEA617F001C2890 /* Images.xcassets */; };
+		A526B2BE1AEA617F001C2890 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A526B2BC1AEA617F001C2890 /* Main.storyboard */; };
+		A526B2CA1AEA617F001C2890 /* TestOPGLTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A526B2C91AEA617F001C2890 /* TestOPGLTests.m */; };
+		A526B2D41AEA619A001C2890 /* OpenGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A526B2D31AEA619A001C2890 /* OpenGL.framework */; };
+		A526B2D61AEA619F001C2890 /* GLUT.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A526B2D51AEA619F001C2890 /* GLUT.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A526B2C41AEA617F001C2890 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A526B2A51AEA617F001C2890 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A526B2AC1AEA617F001C2890;
+			remoteInfo = TestOPGL;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A526B2AD1AEA617F001C2890 /* TestOPGL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestOPGL.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A526B2B11AEA617F001C2890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A526B2B21AEA617F001C2890 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A526B2B31AEA617F001C2890 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A526B2B51AEA617F001C2890 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A526B2B71AEA617F001C2890 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A526B2B81AEA617F001C2890 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A526B2BA1AEA617F001C2890 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A526B2BD1AEA617F001C2890 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A526B2C31AEA617F001C2890 /* TestOPGLTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestOPGLTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A526B2C81AEA617F001C2890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A526B2C91AEA617F001C2890 /* TestOPGLTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestOPGLTests.m; sourceTree = "<group>"; };
+		A526B2D31AEA619A001C2890 /* OpenGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGL.framework; path = System/Library/Frameworks/OpenGL.framework; sourceTree = SDKROOT; };
+		A526B2D51AEA619F001C2890 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = System/Library/Frameworks/GLUT.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A526B2AA1AEA617F001C2890 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A526B2D61AEA619F001C2890 /* GLUT.framework in Frameworks */,
+				A526B2D41AEA619A001C2890 /* OpenGL.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A526B2C01AEA617F001C2890 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A526B2A41AEA617F001C2890 = {
+			isa = PBXGroup;
+			children = (
+				A526B2D51AEA619F001C2890 /* GLUT.framework */,
+				A526B2D31AEA619A001C2890 /* OpenGL.framework */,
+				A526B2AF1AEA617F001C2890 /* TestOPGL */,
+				A526B2C61AEA617F001C2890 /* TestOPGLTests */,
+				A526B2AE1AEA617F001C2890 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A526B2AE1AEA617F001C2890 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A526B2AD1AEA617F001C2890 /* TestOPGL.app */,
+				A526B2C31AEA617F001C2890 /* TestOPGLTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A526B2AF1AEA617F001C2890 /* TestOPGL */ = {
+			isa = PBXGroup;
+			children = (
+				A526B2B21AEA617F001C2890 /* AppDelegate.h */,
+				A526B2B31AEA617F001C2890 /* AppDelegate.m */,
+				A526B2B71AEA617F001C2890 /* ViewController.h */,
+				A526B2B81AEA617F001C2890 /* ViewController.m */,
+				A526B2BA1AEA617F001C2890 /* Images.xcassets */,
+				A526B2BC1AEA617F001C2890 /* Main.storyboard */,
+				A526B2B01AEA617F001C2890 /* Supporting Files */,
+			);
+			path = TestOPGL;
+			sourceTree = "<group>";
+		};
+		A526B2B01AEA617F001C2890 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A526B2B11AEA617F001C2890 /* Info.plist */,
+				A526B2B51AEA617F001C2890 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A526B2C61AEA617F001C2890 /* TestOPGLTests */ = {
+			isa = PBXGroup;
+			children = (
+				A526B2C91AEA617F001C2890 /* TestOPGLTests.m */,
+				A526B2C71AEA617F001C2890 /* Supporting Files */,
+			);
+			path = TestOPGLTests;
+			sourceTree = "<group>";
+		};
+		A526B2C71AEA617F001C2890 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A526B2C81AEA617F001C2890 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A526B2AC1AEA617F001C2890 /* TestOPGL */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A526B2CD1AEA617F001C2890 /* Build configuration list for PBXNativeTarget "TestOPGL" */;
+			buildPhases = (
+				A526B2A91AEA617F001C2890 /* Sources */,
+				A526B2AA1AEA617F001C2890 /* Frameworks */,
+				A526B2AB1AEA617F001C2890 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TestOPGL;
+			productName = TestOPGL;
+			productReference = A526B2AD1AEA617F001C2890 /* TestOPGL.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A526B2C21AEA617F001C2890 /* TestOPGLTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A526B2D01AEA617F001C2890 /* Build configuration list for PBXNativeTarget "TestOPGLTests" */;
+			buildPhases = (
+				A526B2BF1AEA617F001C2890 /* Sources */,
+				A526B2C01AEA617F001C2890 /* Frameworks */,
+				A526B2C11AEA617F001C2890 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A526B2C51AEA617F001C2890 /* PBXTargetDependency */,
+			);
+			name = TestOPGLTests;
+			productName = TestOPGLTests;
+			productReference = A526B2C31AEA617F001C2890 /* TestOPGLTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A526B2A51AEA617F001C2890 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = "Steven Chang";
+				TargetAttributes = {
+					A526B2AC1AEA617F001C2890 = {
+						CreatedOnToolsVersion = 6.3;
+					};
+					A526B2C21AEA617F001C2890 = {
+						CreatedOnToolsVersion = 6.3;
+						TestTargetID = A526B2AC1AEA617F001C2890;
+					};
+				};
+			};
+			buildConfigurationList = A526B2A81AEA617F001C2890 /* Build configuration list for PBXProject "TestOPGL" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A526B2A41AEA617F001C2890;
+			productRefGroup = A526B2AE1AEA617F001C2890 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A526B2AC1AEA617F001C2890 /* TestOPGL */,
+				A526B2C21AEA617F001C2890 /* TestOPGLTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A526B2AB1AEA617F001C2890 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A526B2BB1AEA617F001C2890 /* Images.xcassets in Resources */,
+				A526B2BE1AEA617F001C2890 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A526B2C11AEA617F001C2890 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A526B2A91AEA617F001C2890 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A526B2B91AEA617F001C2890 /* ViewController.m in Sources */,
+				A526B2B61AEA617F001C2890 /* main.m in Sources */,
+				A526B2B41AEA617F001C2890 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A526B2BF1AEA617F001C2890 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A526B2CA1AEA617F001C2890 /* TestOPGLTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A526B2C51AEA617F001C2890 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A526B2AC1AEA617F001C2890 /* TestOPGL */;
+			targetProxy = A526B2C41AEA617F001C2890 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A526B2BC1AEA617F001C2890 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A526B2BD1AEA617F001C2890 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A526B2CB1AEA617F001C2890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		A526B2CC1AEA617F001C2890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		A526B2CE1AEA617F001C2890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = TestOPGL/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A526B2CF1AEA617F001C2890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = TestOPGL/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A526B2D11AEA617F001C2890 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TestOPGLTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestOPGL.app/Contents/MacOS/TestOPGL";
+			};
+			name = Debug;
+		};
+		A526B2D21AEA617F001C2890 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = TestOPGLTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestOPGL.app/Contents/MacOS/TestOPGL";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A526B2A81AEA617F001C2890 /* Build configuration list for PBXProject "TestOPGL" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A526B2CB1AEA617F001C2890 /* Debug */,
+				A526B2CC1AEA617F001C2890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A526B2CD1AEA617F001C2890 /* Build configuration list for PBXNativeTarget "TestOPGL" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A526B2CE1AEA617F001C2890 /* Debug */,
+				A526B2CF1AEA617F001C2890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A526B2D01AEA617F001C2890 /* Build configuration list for PBXNativeTarget "TestOPGLTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A526B2D11AEA617F001C2890 /* Debug */,
+				A526B2D21AEA617F001C2890 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A526B2A51AEA617F001C2890 /* Project object */;
+}

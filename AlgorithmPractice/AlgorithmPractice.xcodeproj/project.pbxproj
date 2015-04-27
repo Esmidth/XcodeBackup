@@ -11,6 +11,7 @@
 		A539F2B21ADA008F00FD7ECA /* V3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539F2B11ADA008F00FD7ECA /* V3.cpp */; };
 		A57A928F1AE5F851006108F8 /* v4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A57A928E1AE5F851006108F8 /* v4.cpp */; };
 		A5839CB31AD7CA5F006A3909 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5839CB21AD7CA5F006A3909 /* main.cpp */; };
+		A5C059D51AEE21A900483E81 /* v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C059D41AEE21A800483E81 /* v2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		A5C059CB1AEE1BFC00483E81 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		A5E310A51AD8C20500E81DE8 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -63,6 +73,9 @@
 		A5A5D1071AE51CF7005EF760 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5A5D10C1AE5200E005EF760 /* v2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v2.cpp; sourceTree = "<group>"; };
 		A5A5D10E1AE52462005EF760 /* v3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v3.cpp; sourceTree = "<group>"; };
+		A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-count-primes #204"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5C059CF1AEE1BFC00483E81 /* v1(Time Limit Exceeded).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "v1(Time Limit Exceeded).cpp"; sourceTree = "<group>"; };
+		A5C059D41AEE21A800483E81 /* v2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v2.cpp; sourceTree = "<group>"; };
 		A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-decode_ways #91"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E310A91AD8C20500E81DE8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5E310AE1AD9222100E81DE8 /* V2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V2.cpp; sourceTree = "<group>"; };
@@ -90,6 +103,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A5C059CA1AEE1BFC00483E81 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A5E310A41AD8C20500E81DE8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -104,8 +124,9 @@
 			isa = PBXGroup;
 			children = (
 				A52F79761A9F05A500990E1B /* AlgorithmPractice */,
-				A5839CB11AD7CA5F006A3909 /* leetcode-candy #135 */,
 				A5E310A81AD8C20500E81DE8 /* leetcode-decode_ways #91 */,
+				A5839CB11AD7CA5F006A3909 /* leetcode-candy #135 */,
+				A5C059CE1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
 				A5A5D1061AE51CF7005EF760 /* LXY */,
 				A52F79751A9F05A500990E1B /* Products */,
 			);
@@ -118,6 +139,7 @@
 				A5839CB01AD7CA5F006A3909 /* leetcode-candy */,
 				A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */,
 				A5A5D1051AE51CF7005EF760 /* LXY */,
+				A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -148,6 +170,15 @@
 				A57A928E1AE5F851006108F8 /* v4.cpp */,
 			);
 			path = LXY;
+			sourceTree = "<group>";
+		};
+		A5C059CE1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {
+			isa = PBXGroup;
+			children = (
+				A5C059CF1AEE1BFC00483E81 /* v1(Time Limit Exceeded).cpp */,
+				A5C059D41AEE21A800483E81 /* v2.cpp */,
+			);
+			path = "leetcode-count-primes #204";
 			sourceTree = "<group>";
 		};
 		A5E310A81AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {
@@ -214,6 +245,23 @@
 			productReference = A5A5D1051AE51CF7005EF760 /* LXY */;
 			productType = "com.apple.product-type.tool";
 		};
+		A5C059CC1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5C059D31AEE1BFC00483E81 /* Build configuration list for PBXNativeTarget "leetcode-count-primes #204" */;
+			buildPhases = (
+				A5C059C91AEE1BFC00483E81 /* Sources */,
+				A5C059CA1AEE1BFC00483E81 /* Frameworks */,
+				A5C059CB1AEE1BFC00483E81 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "leetcode-count-primes #204";
+			productName = "leetcode-count-primes #204";
+			productReference = A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */;
+			productType = "com.apple.product-type.tool";
+		};
 		A5E310A61AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A5E310AD1AD8C20500E81DE8 /* Build configuration list for PBXNativeTarget "leetcode-decode_ways #91" */;
@@ -249,6 +297,9 @@
 					A5A5D1041AE51CF7005EF760 = {
 						CreatedOnToolsVersion = 6.3;
 					};
+					A5C059CC1AEE1BFC00483E81 = {
+						CreatedOnToolsVersion = 6.3.1;
+					};
 					A5E310A61AD8C20500E81DE8 = {
 						CreatedOnToolsVersion = 6.3;
 					};
@@ -270,6 +321,7 @@
 				A5839CAF1AD7CA5F006A3909 /* leetcode-candy */,
 				A5E310A61AD8C20500E81DE8 /* leetcode-decode_ways #91 */,
 				A5A5D1041AE51CF7005EF760 /* LXY */,
+				A5C059CC1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
 			);
 		};
 /* End PBXProject section */
@@ -296,6 +348,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A57A928F1AE5F851006108F8 /* v4.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5C059C91AEE1BFC00483E81 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5C059D51AEE21A900483E81 /* v2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +502,28 @@
 			};
 			name = Release;
 		};
+		A5C059D11AEE1BFC00483E81 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5C059D21AEE1BFC00483E81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		A5E310AB1AD8C20500E81DE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -502,6 +584,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		A5C059D31AEE1BFC00483E81 /* Build configuration list for PBXNativeTarget "leetcode-count-primes #204" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5C059D11AEE1BFC00483E81 /* Debug */,
+				A5C059D21AEE1BFC00483E81 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 		A5E310AD1AD8C20500E81DE8 /* Build configuration list for PBXNativeTarget "leetcode-decode_ways #91" */ = {
 			isa = XCConfigurationList;

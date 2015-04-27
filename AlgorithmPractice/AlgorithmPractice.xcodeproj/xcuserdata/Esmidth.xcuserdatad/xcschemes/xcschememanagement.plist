@@ -19,6 +19,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>leetcode-count-primes #204.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>leetcode-decode_ways #91.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -38,6 +43,11 @@
 			<true/>
 		</dict>
 		<key>A5A5D1041AE51CF7005EF760</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5C059CC1AEE1BFC00483E81</key>
 		<dict>
 			<key>primary</key>
 			<true/>
