@@ -1,6 +1,8 @@
 #ifndef TYPES_H_
 #define TYPES_H_
 
+#include <stdlib.h>
+
 enum rc {
   ROLL,
   PITCH,
@@ -123,7 +125,7 @@ typedef struct {
   uint8_t PASSTHRU_MODE :1 ;
   uint8_t GPS_FIX :1 ;
   uint8_t GPS_FIX_HOME :1 ;
-  uint8_t SMALL_ANGLES_25 :1 ;
+  uint8_t SMALL_ANGLES_25 :1 ;//？？？ SMALL_ANGLES_25 が何？
   uint8_t CALIBRATE_MAG :1 ;
   uint8_t VARIO_MODE :1;
 } flags_struct_t;

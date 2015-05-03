@@ -1623,7 +1623,7 @@
 #if defined(GPS_SERIAL)  || defined(I2C_GPS) || defined(GPS_FROM_OSD)
   #define GPS 1
 #else
-  #define GPS 0
+  #define GPS 1 //!! Original is 0;
 #endif
 
 #if defined(SRF02) || defined(SRF08) || defined(SRF10) || defined(SRC235) || defined(I2C_GPS_SONAR)

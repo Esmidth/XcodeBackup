@@ -61,6 +61,15 @@
 		A5D8E2661ACD926100F823D3 /* Serial.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Serial.cpp; sourceTree = "<group>"; };
 		A5D8E2671ACD926100F823D3 /* Serial.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Serial.h; sourceTree = "<group>"; };
 		A5D8E2681ACD926100F823D3 /* types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = types.h; sourceTree = "<group>"; };
+		C7C8A0F49CE5EC5E2CCCA6E9 /* parts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = parts.h; sourceTree = "<group>"; };
+		C7C8A36E4A50F830B6C5F082 /* led.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = led.h; sourceTree = "<group>"; };
+		C7C8A63EBEF1BE6210011BD0 /* stringz.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stringz.h; sourceTree = "<group>"; };
+		C7C8A6BCC9E8C47C69C043EB /* compiler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = compiler.h; sourceTree = "<group>"; };
+		C7C8A9BC1E76A5D7F2EC877A /* Arduino.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Arduino.h; sourceTree = "<group>"; };
+		C7C8AAD574D3E43517D43327 /* MM.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MM.h; sourceTree = "<group>"; };
+		C7C8AAE0386E2CB152E36683 /* tpaste.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tpaste.h; sourceTree = "<group>"; };
+		C7C8AD2EE6DD6E1AD2B5301B /* preprocessor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = preprocessor.h; sourceTree = "<group>"; };
+		C7C8AE376433998114EBAFF5 /* mrepeat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mrepeat.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,8 +129,25 @@
 				A5D8E2661ACD926100F823D3 /* Serial.cpp */,
 				A5D8E2671ACD926100F823D3 /* Serial.h */,
 				A5D8E2681ACD926100F823D3 /* types.h */,
+				C7C8AB5769FC61B3AE4B287D /* Lib */,
 			);
 			path = MW1;
+			sourceTree = "<group>";
+		};
+		C7C8AB5769FC61B3AE4B287D /* Lib */ = {
+			isa = PBXGroup;
+			children = (
+				C7C8A9BC1E76A5D7F2EC877A /* Arduino.h */,
+				C7C8A6BCC9E8C47C69C043EB /* compiler.h */,
+				C7C8A36E4A50F830B6C5F082 /* led.h */,
+				C7C8A0F49CE5EC5E2CCCA6E9 /* parts.h */,
+				C7C8AD2EE6DD6E1AD2B5301B /* preprocessor.h */,
+				C7C8AAE0386E2CB152E36683 /* tpaste.h */,
+				C7C8AE376433998114EBAFF5 /* mrepeat.h */,
+				C7C8A63EBEF1BE6210011BD0 /* stringz.h */,
+				C7C8AAD574D3E43517D43327 /* MM.h */,
+			);
+			path = Lib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

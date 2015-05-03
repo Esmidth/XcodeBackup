@@ -910,6 +910,7 @@
     //#define MOTOR_STOP
 
     /* some radios have not a neutral point centered on 1500. can be changed here */
+    //中心点 neutral point
     #define MIDRC 1500
 
   /***********************         Servo Refreshrates            ***********************/
