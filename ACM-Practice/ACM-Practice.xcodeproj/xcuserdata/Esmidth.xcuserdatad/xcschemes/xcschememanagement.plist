@@ -59,6 +59,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ACM_College_AC_1_5/17.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
 		<key>Al V4.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -68,6 +73,21 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>13</integer>
+		</dict>
+		<key>Al_GreedySelection_Prac1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>Al_Homework_5.5.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>Al_Homework_Search.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
 		</dict>
 		<key>DP(Homework#1).xcscheme</key>
 		<dict>
@@ -198,6 +218,26 @@
 			<true/>
 		</dict>
 		<key>A5CFFD231A9A1D9A006E59EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5D54E0B1B086613005080CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5D8E5E71B044AFE000C62E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5D8E5F21B04B38F000C62E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8A64EFBAA6B3313269021</key>
 		<dict>
 			<key>primary</key>
 			<true/>

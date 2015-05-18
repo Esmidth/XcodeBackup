@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  ltc-remove_linked_list_elements #203
+//  #203 ltc-remove_linked_list_elements
 //
 //  Created by Steven Chang on 5/3/15.
 //  Copyright (c) 2015 Steven Chang. All rights reserved.

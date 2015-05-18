@@ -36,10 +36,9 @@ November  2013     V2.3
 //RC alias has been destroyed.Need to recover it from source code
 
 /*********** RC alias *****************/
-/*
-const char pidnames{
-PROGMEM =
-"ROLL;"
+
+const char pidnames[] PROGMEM =
+        "ROLL;"
         "PITCH;"
         "YAW;"
         "ALT;"
@@ -48,113 +47,112 @@ PROGMEM =
         "NavR;"
         "LEVEL;"
         "MAG;"
-        "VEL;"};
+        "VEL;";
 
-const char boxnames{
-        PROGMEM = // names for dynamic generation of config GUI
+const char boxnames[] PROGMEM = // names for dynamic generation of config GUI
                 "ARM;"
-#if ACC
-                        "ANGLE;"
-                        "HORIZON;"
-#endif
-#if BARO && (!defined(SUPPRESS_BARO_ALTHOLD))
-                        "BARO;"
-#endif
-#ifdef VARIOMETER
-    "VARIO;"
-  #endif
-#if MAG
-                        "MAG;"
-                        "HEADFREE;"
-                        "HEADADJ;"
-#endif
-#if defined(SERVO_TILT) || defined(GIMBAL)|| defined(SERVO_MIX_TILT)
-    "CAMSTAB;"
-  #endif
-#if defined(CAMTRIG)
-    "CAMTRIG;"
-  #endif
-#if GPS
-                        "GPS HOME;"
-                        "GPS HOLD;"
-#endif
-#if defined(FIXEDWING) || defined(HELICOPTER)
-    "PASSTHRU;"
-  #endif
-#if defined(BUZZER)
-    "BEEPER;"
-  #endif
-#if defined(LED_FLASHER)
-    "LEDMAX;"
-    "LEDLOW;"
-  #endif
-#if defined(LANDING_LIGHTS_DDR)
-    "LLIGHTS;"
-  #endif
-#ifdef INFLIGHT_ACC_CALIBRATION
-    "CALIB;"
-  #endif
-#ifdef GOVERNOR_P
-    "GOVERNOR;"
-  #endif
-#ifdef OSD_SWITCH
-    "OSD SW;"
-  #endif
-};
+            #if ACC
+                "ANGLE;"
+                "HORIZON;"
+            #endif
+            #if BARO && (!defined(SUPPRESS_BARO_ALTHOLD))
+                "BARO;"
+            #endif
+            #ifdef VARIOMETER
+                "VARIO;"
+            #endif
+            #if MAG
+                "MAG;"
+                "HEADFREE;"
+                "HEADADJ;"
+            #endif
+            #if defined(SERVO_TILT) || defined(GIMBAL)|| defined(SERVO_MIX_TILT)
+                "CAMSTAB;"
+            #endif
+            #if defined(CAMTRIG)
+                "CAMTRIG;"
+            #endif
+            #if GPS
+                "GPS HOME;"
+                "GPS HOLD;"
+            #endif
+            #if defined(FIXEDWING) || defined(HELICOPTER)
+                "PASSTHRU;"
+            #endif
+            #if defined(BUZZER)
+                "BEEPER;"
+            #endif
+            #if defined(LED_FLASHER)
+                "LEDMAX;"
+                "LEDLOW;"
+            #endif
+            #if defined(LANDING_LIGHTS_DDR)
+                "LLIGHTS;"
+            #endif
+            #ifdef INFLIGHT_ACC_CALIBRATION
+                "CALIB;"
+            #endif
+            #ifdef GOVERNOR_P
+                "GOVERNOR;"
+            #endif
+            #ifdef OSD_SWITCH
+                "OSD SW;"
+            #endif
+;
 
-const uint8_t boxids(){
-PROGMEM = // permanent IDs associated to boxes. This way, you can rely on an ID number to identify a BOX function.
-        0, //"ARM;"
-#if ACC
-        1, //"ANGLE;"
-        2, //"HORIZON;"
-#endif
-#if BARO && (!defined(SUPPRESS_BARO_ALTHOLD))
-        3, //"BARO;"
-#endif
-#ifdef VARIOMETER
-    4, //"VARIO;"
-  #endif
-#if MAG
-        5, //"MAG;"
-        6, //"HEADFREE;"
-        7, //"HEADADJ;"
-#endif
-#if defined(SERVO_TILT) || defined(GIMBAL)|| defined(SERVO_MIX_TILT)
-    8, //"CAMSTAB;"
-  #endif
-#if defined(CAMTRIG)
-    9, //"CAMTRIG;"
-  #endif
-#if GPS
-    10, //"GPS HOME;"
-    11, //"GPS HOLD;"
-  #endif
-#if defined(FIXEDWING) || defined(HELICOPTER)
-    12, //"PASSTHRU;"
-  #endif
-#if defined(BUZZER)
-    13, //"BEEPER;"
-  #endif
-#if defined(LED_FLASHER)
-    14, //"LEDMAX;"
-    15, //"LEDLOW;"
-  #endif
-#if defined(LANDING_LIGHTS_DDR)
-    16, //"LLIGHTS;"
-  #endif
-#ifdef INFLIGHT_ACC_CALIBRATION
-    17, //"CALIB;"
-  #endif
-#ifdef GOVERNOR_P
-    18, //"GOVERNOR;"
-  #endif
-#ifdef OSD_SWITCH
-    19, //"OSD_SWITCH;"
-  #endif
-};
+const uint8_t boxids[] PROGMEM =
+        // permanent IDs associated to boxes. This way, you can rely on an ID number to identify a BOX function.
+            0, //"ARM;"
+        #if ACC
+            1, //"ANGLE;"
+            2, //"HORIZON;"
+        #endif
+        #if BARO && (!defined(SUPPRESS_BARO_ALTHOLD))
+            3, //"BARO;"
+        #endif
+        #ifdef VARIOMETER
+            4, //"VARIO;"
+        #endif
+        #if MAG
+            5, //"MAG;"
+            6, //"HEADFREE;"
+            7, //"HEADADJ;"
+        #endif
+        #if defined(SERVO_TILT) || defined(GIMBAL)|| defined(SERVO_MIX_TILT)
+            8, //"CAMSTAB;"
+        #endif
+        #if defined(CAMTRIG)
+            9, //"CAMTRIG;"
+        #endif
+        #if GPS
+            10, //"GPS HOME;"
+            11, //"GPS HOLD;"
+        #endif
+        #if defined(FIXEDWING) || defined(HELICOPTER)
+            12, //"PASSTHRU;"
+        #endif
+        #if defined(BUZZER)
+            13, //"BEEPER;"
+        #endif
+        #if defined(LED_FLASHER)
+            14, //"LEDMAX;"
+            15, //"LEDLOW;"
+        #endif
+        #if defined(LANDING_LIGHTS_DDR)
+            16, //"LLIGHTS;"
+        #endif
+        #ifdef INFLIGHT_ACC_CALIBRATION
+            17, //"CALIB;"
+        #endif
+        #ifdef GOVERNOR_P
+            18, //"GOVERNOR;"
+        #endif
+        #ifdef OSD_SWITCH
+            19, //"OSD_SWITCH;"
+        #endif
+;
 
-*/
+
 
 uint32_t currentTime = 0;
 uint16_t previousTime = 0;
@@ -338,11 +336,11 @@ int32_t baroPressureSum;
 #endif
 
 void annexCode() { // this code is excetuted at each loop and won't interfere with control loop if it lasts less than 650 microseconds
-    static uint32_t calibratedAccTime;
+    static uint32_t calibratedAccTime;  //calibrated adj.校准的
     uint16_t tmp, tmp2;
     uint8_t axis, prop1, prop2;
 
-    // PITCH & ROLL only dynamic PID adjustemnt,  depending on throttle value
+    // PITCH & ROLL only dynamic PID adjustment,  depending on throttle value // throttle adj.节流阀
     prop2 = 128; // prop2 was 100, is 128 now
     if (rcData[THROTTLE] > 1500) { // breakpoint is fix: 1500
         if (rcData[THROTTLE] < 2000) {
