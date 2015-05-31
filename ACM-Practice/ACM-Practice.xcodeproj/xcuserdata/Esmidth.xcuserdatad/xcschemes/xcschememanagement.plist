@@ -59,10 +59,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ACM_5.17.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
 		<key>ACM_College_AC_1_5/17.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>24</integer>
+		</dict>
+		<key>ACM_College_AC_3_5.31.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
 		</dict>
 		<key>Al V4.xcscheme</key>
 		<dict>
@@ -218,6 +228,11 @@
 			<true/>
 		</dict>
 		<key>A5CFFD231A9A1D9A006E59EC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5D452ED1B1ACFCF0092845B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

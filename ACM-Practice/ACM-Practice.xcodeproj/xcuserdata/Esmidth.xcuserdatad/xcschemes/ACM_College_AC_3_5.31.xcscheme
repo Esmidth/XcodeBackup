@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
+   LastUpgradeVersion = "0630"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -13,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A5D54E0B1B086613005080CF"
-               BuildableName = "ACM_College_AC_1_5/17"
-               BlueprintName = "ACM_College_AC_1_5/17"
+               BlueprintIdentifier = "A5D452ED1B1ACFCF0092845B"
+               BuildableName = "ACM_College_AC_3_5.31"
+               BlueprintName = "ACM_College_AC_3_5.31"
                ReferencedContainer = "container:ACM-Practice.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,6 +29,15 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A5D452ED1B1ACFCF0092845B"
+            BuildableName = "ACM_College_AC_3_5.31"
+            BlueprintName = "ACM_College_AC_3_5.31"
+            ReferencedContainer = "container:ACM-Practice.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -42,9 +52,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A5D54E0B1B086613005080CF"
-            BuildableName = "ACM_College_AC_1_5/17"
-            BlueprintName = "ACM_College_AC_1_5/17"
+            BlueprintIdentifier = "A5D452ED1B1ACFCF0092845B"
+            BuildableName = "ACM_College_AC_3_5.31"
+            BlueprintName = "ACM_College_AC_3_5.31"
             ReferencedContainer = "container:ACM-Practice.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -57,6 +67,16 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A5D452ED1B1ACFCF0092845B"
+            BuildableName = "ACM_College_AC_3_5.31"
+            BlueprintName = "ACM_College_AC_3_5.31"
+            ReferencedContainer = "container:ACM-Practice.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
