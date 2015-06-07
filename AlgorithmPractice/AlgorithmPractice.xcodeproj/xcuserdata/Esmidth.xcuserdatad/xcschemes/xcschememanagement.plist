@@ -34,6 +34,11 @@
 			<key>orderHint</key>
 			<integer>8</integer>
 		</dict>
+		<key>UVa 340 #Master-Mind Hints.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
 		<key>leetcode-candy.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -57,6 +62,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>A50B1DBC1B1CAD3800154C95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A52F79731A9F05A500990E1B</key>
 		<dict>
 			<key>primary</key>

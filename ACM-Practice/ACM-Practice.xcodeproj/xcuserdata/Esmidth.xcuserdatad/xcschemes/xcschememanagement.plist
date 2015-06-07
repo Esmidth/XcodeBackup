@@ -74,6 +74,11 @@
 			<key>orderHint</key>
 			<integer>25</integer>
 		</dict>
+		<key>ACM_College_AC_4_6.7.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
 		<key>Al V4.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -248,6 +253,11 @@
 			<true/>
 		</dict>
 		<key>A5D8E5F21B04B38F000C62E4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5FEC2621B240C2E00709244</key>
 		<dict>
 			<key>primary</key>
 			<true/>

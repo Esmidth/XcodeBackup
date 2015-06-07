@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A50B1DC01B1CAD3800154C95 /* V1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50B1DBF1B1CAD3800154C95 /* V1.cpp */; };
 		A52F79781A9F05A500990E1B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52F79771A9F05A500990E1B /* main.cpp */; };
 		A5358A381B007FC9002C9371 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5358A371B007FC9002C9371 /* main.cpp */; };
 		A539F2B21ADA008F00FD7ECA /* V3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539F2B11ADA008F00FD7ECA /* V3.cpp */; };
@@ -20,6 +21,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		A50B1DBB1B1CAD3800154C95 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		A52F79721A9F05A500990E1B /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -113,6 +123,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "UVa 340 #Master-Mind Hints"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A50B1DBF1B1CAD3800154C95 /* V1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = V1.cpp; sourceTree = "<group>"; };
 		A52F79741A9F05A500990E1B /* AlgorithmPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		A52F79771A9F05A500990E1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5358A351B007FC9002C9371 /* temp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = temp; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -144,6 +156,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		A50B1DBA1B1CAD3800154C95 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A52F79711A9F05A500990E1B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -217,6 +236,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A50B1DBE1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */ = {
+			isa = PBXGroup;
+			children = (
+				A50B1DBF1B1CAD3800154C95 /* V1.cpp */,
+			);
+			path = "UVa 340 #Master-Mind Hints";
+			sourceTree = "<group>";
+		};
 		A52F796B1A9F05A500990E1B = {
 			isa = PBXGroup;
 			children = (
@@ -226,6 +253,7 @@
 				A5C059CE1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
 				A5A5D1061AE51CF7005EF760 /* LXY */,
 				A5358A361B007FC9002C9371 /* temp */,
+				A50B1DBE1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
 				A52F79751A9F05A500990E1B /* Products */,
 				C7C8A77940AF453C6469C081 /* MaxLISLength */,
 				C7C8AD6119C0EEC2D1E7D646 /* leetcode-happy_number #202 */,
@@ -248,6 +276,7 @@
 				C7C8ACE77A1924EFCDA67818 /* ltc-remove_linked_list_elements #203 */,
 				C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */,
 				A5358A351B007FC9002C9371 /* temp */,
+				A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -343,6 +372,23 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		A50B1DBC1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A50B1DC31B1CAD3800154C95 /* Build configuration list for PBXNativeTarget "UVa 340 #Master-Mind Hints" */;
+			buildPhases = (
+				A50B1DB91B1CAD3800154C95 /* Sources */,
+				A50B1DBA1B1CAD3800154C95 /* Frameworks */,
+				A50B1DBB1B1CAD3800154C95 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "UVa 340 #Master-Mind Hints";
+			productName = "UVa 340 #Master-Mind Hints";
+			productReference = A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */;
+			productType = "com.apple.product-type.tool";
+		};
 		A52F79731A9F05A500990E1B /* AlgorithmPractice */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A52F797B1A9F05A500990E1B /* Build configuration list for PBXNativeTarget "AlgorithmPractice" */;
@@ -522,6 +568,9 @@
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Steven Chang";
 				TargetAttributes = {
+					A50B1DBC1B1CAD3800154C95 = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
 					A52F79731A9F05A500990E1B = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
@@ -564,11 +613,20 @@
 				C7C8A923FDB10A6CDE68C622 /* ltc-remove_linked_list_elements #203 */,
 				C7C8AE076257B6C406F70804 /* #200 ltc-Number_of_islands */,
 				A5358A341B007FC9002C9371 /* temp */,
+				A50B1DBC1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		A50B1DB91B1CAD3800154C95 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A50B1DC01B1CAD3800154C95 /* V1.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A52F79701A9F05A500990E1B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -652,6 +710,28 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
+		A50B1DC11B1CAD3800154C95 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A50B1DC21B1CAD3800154C95 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		A52F79791A9F05A500990E1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -1169,6 +1249,14 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		A50B1DC31B1CAD3800154C95 /* Build configuration list for PBXNativeTarget "UVa 340 #Master-Mind Hints" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A50B1DC11B1CAD3800154C95 /* Debug */,
+				A50B1DC21B1CAD3800154C95 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
 		A52F796F1A9F05A500990E1B /* Build configuration list for PBXProject "AlgorithmPractice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1194,6 +1282,7 @@
 				A5358A3A1B007FC9002C9371 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5839CB61AD7CA5F006A3909 /* Build configuration list for PBXNativeTarget "leetcode-candy" */ = {
 			isa = XCConfigurationList;
