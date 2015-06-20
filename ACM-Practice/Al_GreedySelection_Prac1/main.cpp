@@ -20,6 +20,7 @@ struct item
         return value / (1.0 * weight) > (1.0 * bb.value) / bb.weight;
     }
 };
+
 double greedyKnapsack(int n,int capacity,item* itemSet)
 {
     double ans = 0;
