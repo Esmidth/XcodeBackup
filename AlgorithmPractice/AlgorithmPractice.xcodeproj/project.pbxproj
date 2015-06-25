@@ -14,6 +14,10 @@
 		A57A928F1AE5F851006108F8 /* v4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A57A928E1AE5F851006108F8 /* v4.cpp */; };
 		A5839CB31AD7CA5F006A3909 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5839CB21AD7CA5F006A3909 /* main.cpp */; };
 		A5C059D51AEE21A900483E81 /* v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C059D41AEE21A800483E81 /* v2.cpp */; };
+		A5E19B771B38585D00F263FE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E19B761B38585D00F263FE /* main.cpp */; };
+		A5E19B871B385FE300F263FE /* V2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E19B861B385FE300F263FE /* V2.cpp */; };
+		A5ED7F3C1B398731008E5C23 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5ED7F3B1B398731008E5C23 /* 5.cpp */; };
+		A5ED7F441B3988AB008E5C23 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5ED7F431B3988AB008E5C23 /* main.cpp */; };
 		C7C8A76A66B402889E6139BB /* v1(AC).cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7C8AA48A8085BF9CDB143CA /* v1(AC).cpp */; };
 		C7C8AEDE2D7A1AF8DB5E6493 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7C8AB8AE602609889890701 /* main.cpp */; };
 		C7C8AF2D99A7E420F533EC18 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C7C8A93D5882EE4C523E79D7 /* main.cpp */; };
@@ -75,7 +79,43 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
+		A5E19B721B38585D00F263FE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A5E19B7D1B3859EE00F263FE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
 		A5E310A51AD8C20500E81DE8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A5ED7F301B397761008E5C23 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		A5ED7F3F1B3988AB008E5C23 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -140,9 +180,20 @@
 		A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-count-primes #204"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C059CF1AEE1BFC00483E81 /* v1(Time Limit Exceeded).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "v1(Time Limit Exceeded).cpp"; sourceTree = "<group>"; };
 		A5C059D41AEE21A800483E81 /* v2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v2.cpp; sourceTree = "<group>"; };
+		A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ltc-basic_calculator_ii #227"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5E19B761B38585D00F263FE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "#224 ltc-basic_calculator"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5E19B811B3859EE00F263FE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A5E19B861B385FE300F263FE /* V2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V2.cpp; sourceTree = "<group>"; };
 		A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-decode_ways #91"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E310A91AD8C20500E81DE8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5E310AE1AD9222100E81DE8 /* V2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V2.cpp; sourceTree = "<group>"; };
+		A5ED7F321B397761008E5C23 /* AlTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5ED7F341B397761008E5C23 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		A5ED7F391B398162008E5C23 /* 4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
+		A5ED7F3B1B398731008E5C23 /* 5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		A5ED7F411B3988AB008E5C23 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
+		A5ED7F431B3988AB008E5C23 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C7C8A104F56A608B450D8387 /* Log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Log.txt; sourceTree = "<group>"; };
 		C7C8A40B985CC5C57E0A93B7 /* leetcode-happy_number #202 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-happy_number #202"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "#200 ltc-Number_of_islands"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -198,7 +249,35 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A5E19B711B38585D00F263FE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5E19B7C1B3859EE00F263FE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A5E310A41AD8C20500E81DE8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5ED7F2F1B397761008E5C23 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5ED7F3E1B3988AB008E5C23 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -248,18 +327,22 @@
 			isa = PBXGroup;
 			children = (
 				A52F79761A9F05A500990E1B /* AlgorithmPractice */,
-				A5E310A81AD8C20500E81DE8 /* leetcode-decode_ways #91 */,
-				A5839CB11AD7CA5F006A3909 /* leetcode-candy #135 */,
-				A5C059CE1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
+				A5E310A81AD8C20500E81DE8 /* #91 ltc-decode_ways  */,
+				A5839CB11AD7CA5F006A3909 /* #135 ltc-candy */,
+				C7C8A0E027B1ED68ACDEB33F /* #200 ltc-Number_of_islands */,
+				C7C8AD6119C0EEC2D1E7D646 /* #202 ltc-happy_number */,
+				C7C8A6E1F7392BE3B26FB07B /* #203 ltc-remove_linked_list_elements  */,
+				A5C059CE1AEE1BFC00483E81 /* #204 ltc-count-primes */,
+				A5E19B801B3859EE00F263FE /* #224 ltc-basic_calculator */,
+				A5E19B751B38585D00F263FE /* #227 ltc-basic_calculator_ii  */,
 				A5A5D1061AE51CF7005EF760 /* LXY */,
 				A5358A361B007FC9002C9371 /* temp */,
 				A50B1DBE1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
+				A5ED7F331B397761008E5C23 /* AlTest */,
+				A5ED7F421B3988AB008E5C23 /* test */,
 				A52F79751A9F05A500990E1B /* Products */,
 				C7C8A77940AF453C6469C081 /* MaxLISLength */,
-				C7C8AD6119C0EEC2D1E7D646 /* leetcode-happy_number #202 */,
-				C7C8A6E1F7392BE3B26FB07B /* ltc-remove_linked_list_elements #203 */,
 				C7C8A104F56A608B450D8387 /* Log.txt */,
-				C7C8A0E027B1ED68ACDEB33F /* #200 ltc-Number_of_islands */,
 			);
 			sourceTree = "<group>";
 		};
@@ -277,6 +360,10 @@
 				C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */,
 				A5358A351B007FC9002C9371 /* temp */,
 				A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
+				A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */,
+				A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */,
+				A5ED7F321B397761008E5C23 /* AlTest */,
+				A5ED7F411B3988AB008E5C23 /* test */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -297,12 +384,12 @@
 			path = temp;
 			sourceTree = "<group>";
 		};
-		A5839CB11AD7CA5F006A3909 /* leetcode-candy #135 */ = {
+		A5839CB11AD7CA5F006A3909 /* #135 ltc-candy */ = {
 			isa = PBXGroup;
 			children = (
 				A5839CB21AD7CA5F006A3909 /* main.cpp */,
 			);
-			name = "leetcode-candy #135";
+			name = "#135 ltc-candy";
 			path = "leetcode-candy";
 			sourceTree = "<group>";
 		};
@@ -317,23 +404,61 @@
 			path = LXY;
 			sourceTree = "<group>";
 		};
-		A5C059CE1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {
+		A5C059CE1AEE1BFC00483E81 /* #204 ltc-count-primes */ = {
 			isa = PBXGroup;
 			children = (
 				A5C059CF1AEE1BFC00483E81 /* v1(Time Limit Exceeded).cpp */,
 				A5C059D41AEE21A800483E81 /* v2.cpp */,
 			);
+			name = "#204 ltc-count-primes";
 			path = "leetcode-count-primes #204";
 			sourceTree = "<group>";
 		};
-		A5E310A81AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {
+		A5E19B751B38585D00F263FE /* #227 ltc-basic_calculator_ii  */ = {
+			isa = PBXGroup;
+			children = (
+				A5E19B761B38585D00F263FE /* main.cpp */,
+			);
+			name = "#227 ltc-basic_calculator_ii ";
+			path = "ltc-basic_calculator_ii #227";
+			sourceTree = "<group>";
+		};
+		A5E19B801B3859EE00F263FE /* #224 ltc-basic_calculator */ = {
+			isa = PBXGroup;
+			children = (
+				A5E19B811B3859EE00F263FE /* main.cpp */,
+				A5E19B861B385FE300F263FE /* V2.cpp */,
+			);
+			path = "#224 ltc-basic_calculator";
+			sourceTree = "<group>";
+		};
+		A5E310A81AD8C20500E81DE8 /* #91 ltc-decode_ways  */ = {
 			isa = PBXGroup;
 			children = (
 				A5E310A91AD8C20500E81DE8 /* main.cpp */,
 				A5E310AE1AD9222100E81DE8 /* V2.cpp */,
 				A539F2B11ADA008F00FD7ECA /* V3.cpp */,
 			);
+			name = "#91 ltc-decode_ways ";
 			path = "leetcode-decode_ways #91";
+			sourceTree = "<group>";
+		};
+		A5ED7F331B397761008E5C23 /* AlTest */ = {
+			isa = PBXGroup;
+			children = (
+				A5ED7F341B397761008E5C23 /* main.cpp */,
+				A5ED7F391B398162008E5C23 /* 4.cpp */,
+				A5ED7F3B1B398731008E5C23 /* 5.cpp */,
+			);
+			path = AlTest;
+			sourceTree = "<group>";
+		};
+		A5ED7F421B3988AB008E5C23 /* test */ = {
+			isa = PBXGroup;
+			children = (
+				A5ED7F431B3988AB008E5C23 /* main.cpp */,
+			);
+			path = test;
 			sourceTree = "<group>";
 		};
 		C7C8A0E027B1ED68ACDEB33F /* #200 ltc-Number_of_islands */ = {
@@ -344,12 +469,13 @@
 			path = "#200 ltc-Number_of_islands";
 			sourceTree = "<group>";
 		};
-		C7C8A6E1F7392BE3B26FB07B /* ltc-remove_linked_list_elements #203 */ = {
+		C7C8A6E1F7392BE3B26FB07B /* #203 ltc-remove_linked_list_elements  */ = {
 			isa = PBXGroup;
 			children = (
 				C7C8AEA0AABCF114445989E7 /* main.cpp */,
 				C7C8AE15655B09E0BF9DBF97 /* v2(AC).cpp */,
 			);
+			name = "#203 ltc-remove_linked_list_elements ";
 			path = "ltc-remove_linked_list_elements #203";
 			sourceTree = "<group>";
 		};
@@ -361,11 +487,12 @@
 			path = MaxLISLength;
 			sourceTree = "<group>";
 		};
-		C7C8AD6119C0EEC2D1E7D646 /* leetcode-happy_number #202 */ = {
+		C7C8AD6119C0EEC2D1E7D646 /* #202 ltc-happy_number */ = {
 			isa = PBXGroup;
 			children = (
 				C7C8AA48A8085BF9CDB143CA /* v1(AC).cpp */,
 			);
+			name = "#202 ltc-happy_number";
 			path = "leetcode-happy_number #202";
 			sourceTree = "<group>";
 		};
@@ -474,6 +601,40 @@
 			productReference = A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */;
 			productType = "com.apple.product-type.tool";
 		};
+		A5E19B731B38585D00F263FE /* ltc-basic_calculator_ii #227 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5E19B7A1B38585D00F263FE /* Build configuration list for PBXNativeTarget "ltc-basic_calculator_ii #227" */;
+			buildPhases = (
+				A5E19B701B38585D00F263FE /* Sources */,
+				A5E19B711B38585D00F263FE /* Frameworks */,
+				A5E19B721B38585D00F263FE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ltc-basic_calculator_ii #227";
+			productName = "ltc-basic_calculator_ii #227";
+			productReference = A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A5E19B7E1B3859EE00F263FE /* #224 ltc-basic_calculator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5E19B831B3859EE00F263FE /* Build configuration list for PBXNativeTarget "#224 ltc-basic_calculator" */;
+			buildPhases = (
+				A5E19B7B1B3859EE00F263FE /* Sources */,
+				A5E19B7C1B3859EE00F263FE /* Frameworks */,
+				A5E19B7D1B3859EE00F263FE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "#224 ltc-basic_calculator";
+			productName = "#224 ltc-basic_calculator";
+			productReference = A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */;
+			productType = "com.apple.product-type.tool";
+		};
 		A5E310A61AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = A5E310AD1AD8C20500E81DE8 /* Build configuration list for PBXNativeTarget "leetcode-decode_ways #91" */;
@@ -489,6 +650,40 @@
 			name = "leetcode-decode_ways #91";
 			productName = "leetcode-decode_ways #91";
 			productReference = A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */;
+			productType = "com.apple.product-type.tool";
+		};
+		A5ED7F311B397761008E5C23 /* AlTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5ED7F381B397761008E5C23 /* Build configuration list for PBXNativeTarget "AlTest" */;
+			buildPhases = (
+				A5ED7F2E1B397761008E5C23 /* Sources */,
+				A5ED7F2F1B397761008E5C23 /* Frameworks */,
+				A5ED7F301B397761008E5C23 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlTest;
+			productName = AlTest;
+			productReference = A5ED7F321B397761008E5C23 /* AlTest */;
+			productType = "com.apple.product-type.tool";
+		};
+		A5ED7F401B3988AB008E5C23 /* test */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A5ED7F451B3988AB008E5C23 /* Build configuration list for PBXNativeTarget "test" */;
+			buildPhases = (
+				A5ED7F3D1B3988AB008E5C23 /* Sources */,
+				A5ED7F3E1B3988AB008E5C23 /* Frameworks */,
+				A5ED7F3F1B3988AB008E5C23 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = test;
+			productName = test;
+			productReference = A5ED7F411B3988AB008E5C23 /* test */;
 			productType = "com.apple.product-type.tool";
 		};
 		C7C8A923FDB10A6CDE68C622 /* ltc-remove_linked_list_elements #203 */ = {
@@ -586,8 +781,20 @@
 					A5C059CC1AEE1BFC00483E81 = {
 						CreatedOnToolsVersion = 6.3.1;
 					};
+					A5E19B731B38585D00F263FE = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+					A5E19B7E1B3859EE00F263FE = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
 					A5E310A61AD8C20500E81DE8 = {
 						CreatedOnToolsVersion = 6.3;
+					};
+					A5ED7F311B397761008E5C23 = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+					A5ED7F401B3988AB008E5C23 = {
+						CreatedOnToolsVersion = 6.3.2;
 					};
 				};
 			};
@@ -614,6 +821,10 @@
 				C7C8AE076257B6C406F70804 /* #200 ltc-Number_of_islands */,
 				A5358A341B007FC9002C9371 /* temp */,
 				A50B1DBC1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
+				A5E19B731B38585D00F263FE /* ltc-basic_calculator_ii #227 */,
+				A5E19B7E1B3859EE00F263FE /* #224 ltc-basic_calculator */,
+				A5ED7F311B397761008E5C23 /* AlTest */,
+				A5ED7F401B3988AB008E5C23 /* test */,
 			);
 		};
 /* End PBXProject section */
@@ -667,11 +878,43 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		A5E19B701B38585D00F263FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5E19B771B38585D00F263FE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5E19B7B1B3859EE00F263FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5E19B871B385FE300F263FE /* V2.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A5E310A31AD8C20500E81DE8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				A539F2B21ADA008F00FD7ECA /* V3.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5ED7F2E1B397761008E5C23 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5ED7F3C1B398731008E5C23 /* 5.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5ED7F3D1B3988AB008E5C23 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A5ED7F441B3988AB008E5C23 /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -908,6 +1151,50 @@
 			};
 			name = Release;
 		};
+		A5E19B781B38585D00F263FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5E19B791B38585D00F263FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A5E19B841B3859EE00F263FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5E19B851B3859EE00F263FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
 		A5E310AB1AD8C20500E81DE8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -922,6 +1209,50 @@
 			name = Debug;
 		};
 		A5E310AC1AD8C20500E81DE8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A5ED7F361B397761008E5C23 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5ED7F371B397761008E5C23 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A5ED7F461B3988AB008E5C23 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A5ED7F471B3988AB008E5C23 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COPY_PHASE_STRIP = NO;
@@ -1256,6 +1587,7 @@
 				A50B1DC21B1CAD3800154C95 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A52F796F1A9F05A500990E1B /* Build configuration list for PBXProject "AlgorithmPractice" */ = {
 			isa = XCConfigurationList;
@@ -1311,6 +1643,24 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		A5E19B7A1B38585D00F263FE /* Build configuration list for PBXNativeTarget "ltc-basic_calculator_ii #227" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5E19B781B38585D00F263FE /* Debug */,
+				A5E19B791B38585D00F263FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A5E19B831B3859EE00F263FE /* Build configuration list for PBXNativeTarget "#224 ltc-basic_calculator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5E19B841B3859EE00F263FE /* Debug */,
+				A5E19B851B3859EE00F263FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		A5E310AD1AD8C20500E81DE8 /* Build configuration list for PBXNativeTarget "leetcode-decode_ways #91" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1319,6 +1669,22 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		A5ED7F381B397761008E5C23 /* Build configuration list for PBXNativeTarget "AlTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5ED7F361B397761008E5C23 /* Debug */,
+				A5ED7F371B397761008E5C23 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A5ED7F451B3988AB008E5C23 /* Build configuration list for PBXNativeTarget "test" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A5ED7F461B3988AB008E5C23 /* Debug */,
+				A5ED7F471B3988AB008E5C23 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 		C7C8A13868A912CF8D5A977C /* Build configuration list for PBXNativeTarget "leetcode-happy_number #202" */ = {
 			isa = XCConfigurationList;

@@ -19,6 +19,21 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>#224 ltc-basic_calculator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>#224.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>AlTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>AlgorithmPractice.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -54,10 +69,20 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>ltc-basic_calculator_ii #227.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
 		<key>temp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>9</integer>
+		</dict>
+		<key>test.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -92,7 +117,27 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>A5E19B731B38585D00F263FE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5E19B7E1B3859EE00F263FE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>A5E310A61AD8C20500E81DE8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5ED7F311B397761008E5C23</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5ED7F401B3988AB008E5C23</key>
 		<dict>
 			<key>primary</key>
 			<true/>

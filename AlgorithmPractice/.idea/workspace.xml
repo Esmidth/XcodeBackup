@@ -24,10 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ltc-remove_linked_list_elements #203/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1496">
+            <state vertical-scroll-proportion="0.95348835" vertical-offset="0" max-vertical-offset="1496">
               <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding />
             </state>
@@ -76,11 +76,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#200 ltc-Number_of_islands/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2414">
               <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="e#151#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="V2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/#224 ltc-basic_calculator/V2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1734">
+              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
               <folding>
                 <element signature="e#151#170#0" expanded="true" />
               </folding>
@@ -110,6 +122,7 @@
         <option value="$PROJECT_DIR$/ltc-remove_linked_list_elements #203/main.cpp" />
         <option value="$PROJECT_DIR$/Log.txt" />
         <option value="$PROJECT_DIR$/#200 ltc-Number_of_islands/main.cpp" />
+        <option value="$PROJECT_DIR$/#224 ltc-basic_calculator/V2.cpp" />
       </list>
     </option>
   </component>
@@ -145,7 +158,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -158,22 +170,9 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AlgorithmPractice" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="#200 ltc-Number_of_islands" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,7 +183,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="ltc-remove_linked_list_elements #203" />
   </component>
-  <component name="RunManager" selected="Application.#200">
+  <component name="RunManager" selected="Application.#224">
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="AlgorithmPractice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="AlgorithmPractice" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
@@ -252,6 +251,15 @@
       <ConfigurationWrapper RunnerId="AppRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="#224" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="#224 ltc-basic_calculator" CONFIG_NAME="Debug" SCHEME_NAME="#224" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="#224 ltc-basic_calculator" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="leetcode-candy" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="leetcode-candy" CONFIG_NAME="Debug" SCHEME_NAME="leetcode-candy" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="leetcode-candy" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
@@ -280,16 +288,49 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="9">
+    <configuration default="false" name="#224 ltc-basic_calculator" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="#224 ltc-basic_calculator" CONFIG_NAME="Debug" SCHEME_NAME="#224 ltc-basic_calculator" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="#224 ltc-basic_calculator" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="ltc-basic_calculator_ii #227" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="ltc-basic_calculator_ii #227" CONFIG_NAME="Debug" SCHEME_NAME="ltc-basic_calculator_ii #227" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="ltc-basic_calculator_ii #227" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="temp" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="temp" CONFIG_NAME="Debug" SCHEME_NAME="temp" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="temp" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="UVa 340 #Master-Mind Hints" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="UVa 340 #Master-Mind Hints" CONFIG_NAME="Debug" SCHEME_NAME="UVa 340 #Master-Mind Hints" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="UVa 340 #Master-Mind Hints" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="14">
       <item index="0" class="java.lang.String" itemvalue="Application.AlgorithmPractice" />
       <item index="1" class="java.lang.String" itemvalue="Application.MaxLISLength" />
       <item index="2" class="java.lang.String" itemvalue="Application.#202" />
       <item index="3" class="java.lang.String" itemvalue="Application.#203" />
       <item index="4" class="java.lang.String" itemvalue="Application.#200" />
-      <item index="5" class="java.lang.String" itemvalue="Application.leetcode-candy" />
-      <item index="6" class="java.lang.String" itemvalue="Application.leetcode-count-primes #204" />
-      <item index="7" class="java.lang.String" itemvalue="Application.leetcode-decode_ways #91" />
-      <item index="8" class="java.lang.String" itemvalue="Application.LXY" />
+      <item index="5" class="java.lang.String" itemvalue="Application.#224" />
+      <item index="6" class="java.lang.String" itemvalue="Application.leetcode-candy" />
+      <item index="7" class="java.lang.String" itemvalue="Application.leetcode-count-primes #204" />
+      <item index="8" class="java.lang.String" itemvalue="Application.leetcode-decode_ways #91" />
+      <item index="9" class="java.lang.String" itemvalue="Application.LXY" />
+      <item index="10" class="java.lang.String" itemvalue="Application.#224 ltc-basic_calculator" />
+      <item index="11" class="java.lang.String" itemvalue="Application.ltc-basic_calculator_ii #227" />
+      <item index="12" class="java.lang.String" itemvalue="Application.temp" />
+      <item index="13" class="java.lang.String" itemvalue="Application.UVa 340 #Master-Mind Hints" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -315,21 +356,21 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27683136" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2884036" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41426402" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3171472" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31620553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -348,9 +389,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3126593" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -384,14 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AlgorithmPractice/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="1003">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="appcode.project-settings://e3661452">
       <provider selected="true" editor-type-id="AppCode.ProjectSettings">
         <state />
@@ -753,14 +786,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ltc-remove_linked_list_elements #203/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgorithmPractice/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
@@ -776,6 +801,24 @@
           <folding>
             <element signature="e#151#170#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#224 ltc-basic_calculator/V2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1734">
+          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+          <folding>
+            <element signature="e#151#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltc-remove_linked_list_elements #203/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95348835" vertical-offset="0" max-vertical-offset="1496">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
