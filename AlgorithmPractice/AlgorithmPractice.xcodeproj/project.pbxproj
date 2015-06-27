@@ -11,7 +11,6 @@
 		A52F79781A9F05A500990E1B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52F79771A9F05A500990E1B /* main.cpp */; };
 		A5358A381B007FC9002C9371 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5358A371B007FC9002C9371 /* main.cpp */; };
 		A539F2B21ADA008F00FD7ECA /* V3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539F2B11ADA008F00FD7ECA /* V3.cpp */; };
-		A57A928F1AE5F851006108F8 /* v4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A57A928E1AE5F851006108F8 /* v4.cpp */; };
 		A5839CB31AD7CA5F006A3909 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5839CB21AD7CA5F006A3909 /* main.cpp */; };
 		A5C059D51AEE21A900483E81 /* v2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5C059D41AEE21A800483E81 /* v2.cpp */; };
 		A5E19B771B38585D00F263FE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E19B761B38585D00F263FE /* main.cpp */; };
@@ -163,45 +162,26 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "UVa 340 #Master-Mind Hints"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A50B1DBF1B1CAD3800154C95 /* V1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = V1.cpp; sourceTree = "<group>"; };
-		A52F79741A9F05A500990E1B /* AlgorithmPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		A52F79771A9F05A500990E1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		A5358A351B007FC9002C9371 /* temp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = temp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5358A371B007FC9002C9371 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A539F2B11ADA008F00FD7ECA /* V3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V3.cpp; sourceTree = "<group>"; };
-		A57A928E1AE5F851006108F8 /* v4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v4.cpp; sourceTree = "<group>"; };
-		A5839CB01AD7CA5F006A3909 /* leetcode-candy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-candy"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5839CB21AD7CA5F006A3909 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		A5A5D1051AE51CF7005EF760 /* LXY */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LXY; sourceTree = BUILT_PRODUCTS_DIR; };
-		A5A5D1071AE51CF7005EF760 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		A5A5D10C1AE5200E005EF760 /* v2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v2.cpp; sourceTree = "<group>"; };
-		A5A5D10E1AE52462005EF760 /* v3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v3.cpp; sourceTree = "<group>"; };
-		A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-count-primes #204"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5C059CF1AEE1BFC00483E81 /* v1(Time Limit Exceeded).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "v1(Time Limit Exceeded).cpp"; sourceTree = "<group>"; };
 		A5C059D41AEE21A800483E81 /* v2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = v2.cpp; sourceTree = "<group>"; };
-		A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ltc-basic_calculator_ii #227"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E19B761B38585D00F263FE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "#224 ltc-basic_calculator"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E19B811B3859EE00F263FE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5E19B861B385FE300F263FE /* V2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V2.cpp; sourceTree = "<group>"; };
-		A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-decode_ways #91"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E310A91AD8C20500E81DE8 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5E310AE1AD9222100E81DE8 /* V2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = V2.cpp; sourceTree = "<group>"; };
-		A5ED7F321B397761008E5C23 /* AlTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5ED7F341B397761008E5C23 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5ED7F391B398162008E5C23 /* 4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		A5ED7F3B1B398731008E5C23 /* 5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
-		A5ED7F411B3988AB008E5C23 /* test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = test; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5ED7F431B3988AB008E5C23 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		C7C8A104F56A608B450D8387 /* Log.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Log.txt; sourceTree = "<group>"; };
-		C7C8A40B985CC5C57E0A93B7 /* leetcode-happy_number #202 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "leetcode-happy_number #202"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "#200 ltc-Number_of_islands"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C8A93D5882EE4C523E79D7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		C7C8A9E7DAF3DA659C8E6707 /* MaxLISLength */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MaxLISLength; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C8AA48A8085BF9CDB143CA /* v1(AC).cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "v1(AC).cpp"; sourceTree = "<group>"; };
 		C7C8AB8AE602609889890701 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		C7C8ACE77A1924EFCDA67818 /* ltc-remove_linked_list_elements #203 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ltc-remove_linked_list_elements #203"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7C8AE15655B09E0BF9DBF97 /* v2(AC).cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "v2(AC).cpp"; sourceTree = "<group>"; };
 		C7C8AEA0AABCF114445989E7 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -335,7 +315,6 @@
 				A5C059CE1AEE1BFC00483E81 /* #204 ltc-count-primes */,
 				A5E19B801B3859EE00F263FE /* #224 ltc-basic_calculator */,
 				A5E19B751B38585D00F263FE /* #227 ltc-basic_calculator_ii  */,
-				A5A5D1061AE51CF7005EF760 /* LXY */,
 				A5358A361B007FC9002C9371 /* temp */,
 				A50B1DBE1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
 				A5ED7F331B397761008E5C23 /* AlTest */,
@@ -349,21 +328,6 @@
 		A52F79751A9F05A500990E1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A52F79741A9F05A500990E1B /* AlgorithmPractice */,
-				A5839CB01AD7CA5F006A3909 /* leetcode-candy */,
-				A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */,
-				A5A5D1051AE51CF7005EF760 /* LXY */,
-				A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */,
-				C7C8A9E7DAF3DA659C8E6707 /* MaxLISLength */,
-				C7C8A40B985CC5C57E0A93B7 /* leetcode-happy_number #202 */,
-				C7C8ACE77A1924EFCDA67818 /* ltc-remove_linked_list_elements #203 */,
-				C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */,
-				A5358A351B007FC9002C9371 /* temp */,
-				A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */,
-				A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */,
-				A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */,
-				A5ED7F321B397761008E5C23 /* AlTest */,
-				A5ED7F411B3988AB008E5C23 /* test */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -391,17 +355,6 @@
 			);
 			name = "#135 ltc-candy";
 			path = "leetcode-candy";
-			sourceTree = "<group>";
-		};
-		A5A5D1061AE51CF7005EF760 /* LXY */ = {
-			isa = PBXGroup;
-			children = (
-				A5A5D1071AE51CF7005EF760 /* main.cpp */,
-				A5A5D10C1AE5200E005EF760 /* v2.cpp */,
-				A5A5D10E1AE52462005EF760 /* v3.cpp */,
-				A57A928E1AE5F851006108F8 /* v4.cpp */,
-			);
-			path = LXY;
 			sourceTree = "<group>";
 		};
 		A5C059CE1AEE1BFC00483E81 /* #204 ltc-count-primes */ = {
@@ -513,7 +466,6 @@
 			);
 			name = "UVa 340 #Master-Mind Hints";
 			productName = "UVa 340 #Master-Mind Hints";
-			productReference = A50B1DBD1B1CAD3800154C95 /* UVa 340 #Master-Mind Hints */;
 			productType = "com.apple.product-type.tool";
 		};
 		A52F79731A9F05A500990E1B /* AlgorithmPractice */ = {
@@ -530,7 +482,6 @@
 			);
 			name = AlgorithmPractice;
 			productName = AlgorithmPractice;
-			productReference = A52F79741A9F05A500990E1B /* AlgorithmPractice */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5358A341B007FC9002C9371 /* temp */ = {
@@ -547,7 +498,6 @@
 			);
 			name = temp;
 			productName = temp;
-			productReference = A5358A351B007FC9002C9371 /* temp */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5839CAF1AD7CA5F006A3909 /* leetcode-candy */ = {
@@ -564,7 +514,6 @@
 			);
 			name = "leetcode-candy";
 			productName = "leetcode-candy";
-			productReference = A5839CB01AD7CA5F006A3909 /* leetcode-candy */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5A5D1041AE51CF7005EF760 /* LXY */ = {
@@ -581,7 +530,6 @@
 			);
 			name = LXY;
 			productName = LXY;
-			productReference = A5A5D1051AE51CF7005EF760 /* LXY */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5C059CC1AEE1BFC00483E81 /* leetcode-count-primes #204 */ = {
@@ -598,7 +546,6 @@
 			);
 			name = "leetcode-count-primes #204";
 			productName = "leetcode-count-primes #204";
-			productReference = A5C059CD1AEE1BFC00483E81 /* leetcode-count-primes #204 */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5E19B731B38585D00F263FE /* ltc-basic_calculator_ii #227 */ = {
@@ -615,7 +562,6 @@
 			);
 			name = "ltc-basic_calculator_ii #227";
 			productName = "ltc-basic_calculator_ii #227";
-			productReference = A5E19B741B38585D00F263FE /* ltc-basic_calculator_ii #227 */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5E19B7E1B3859EE00F263FE /* #224 ltc-basic_calculator */ = {
@@ -632,7 +578,6 @@
 			);
 			name = "#224 ltc-basic_calculator";
 			productName = "#224 ltc-basic_calculator";
-			productReference = A5E19B7F1B3859EE00F263FE /* #224 ltc-basic_calculator */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5E310A61AD8C20500E81DE8 /* leetcode-decode_ways #91 */ = {
@@ -649,7 +594,6 @@
 			);
 			name = "leetcode-decode_ways #91";
 			productName = "leetcode-decode_ways #91";
-			productReference = A5E310A71AD8C20500E81DE8 /* leetcode-decode_ways #91 */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5ED7F311B397761008E5C23 /* AlTest */ = {
@@ -666,7 +610,6 @@
 			);
 			name = AlTest;
 			productName = AlTest;
-			productReference = A5ED7F321B397761008E5C23 /* AlTest */;
 			productType = "com.apple.product-type.tool";
 		};
 		A5ED7F401B3988AB008E5C23 /* test */ = {
@@ -683,7 +626,6 @@
 			);
 			name = test;
 			productName = test;
-			productReference = A5ED7F411B3988AB008E5C23 /* test */;
 			productType = "com.apple.product-type.tool";
 		};
 		C7C8A923FDB10A6CDE68C622 /* ltc-remove_linked_list_elements #203 */ = {
@@ -700,7 +642,6 @@
 			);
 			name = "ltc-remove_linked_list_elements #203";
 			productName = "ltc-remove_linked_list_elements #203";
-			productReference = C7C8ACE77A1924EFCDA67818 /* ltc-remove_linked_list_elements #203 */;
 			productType = "com.apple.product-type.tool";
 		};
 		C7C8A9280451252E3FCB09B9 /* leetcode-happy_number #202 */ = {
@@ -717,7 +658,6 @@
 			);
 			name = "leetcode-happy_number #202";
 			productName = "leetcode-happy_number #202";
-			productReference = C7C8A40B985CC5C57E0A93B7 /* leetcode-happy_number #202 */;
 			productType = "com.apple.product-type.tool";
 		};
 		C7C8AB53A2B7712A2AE2B549 /* MaxLISLength */ = {
@@ -734,7 +674,6 @@
 			);
 			name = MaxLISLength;
 			productName = MaxLISLength;
-			productReference = C7C8A9E7DAF3DA659C8E6707 /* MaxLISLength */;
 			productType = "com.apple.product-type.tool";
 		};
 		C7C8AE076257B6C406F70804 /* #200 ltc-Number_of_islands */ = {
@@ -751,7 +690,6 @@
 			);
 			name = "#200 ltc-Number_of_islands";
 			productName = "#200 ltc-Number_of_islands";
-			productReference = C7C8A6A9D21B63D68B01AB18 /* #200 ltc-Number_of_islands */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -866,7 +804,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A57A928F1AE5F851006108F8 /* v4.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

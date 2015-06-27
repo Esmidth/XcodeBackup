@@ -2,13 +2,394 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8916e9e4-15e8-4590-abcb-d77ea4d844a6" name="Default" comment="2015.5.18 Backup">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACM-Practice.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/ACM-Practice.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/ACM_5.17.xcscheme" afterPath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/ACM_5.17.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACM-Practice.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ACM-Practice.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/ABCTest.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest/dma.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest/dma.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ABCTest/ABCTest/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM.xcodeproj/project.xcworkspace/xcshareddata/APM.xccheckout" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_Curve/AP_Curve.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_HAL/Scheduler.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_HAL/Semaphores.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_HAL/Util.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_HAL/utility/BetterStream.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_HAL_AVR_SITL/Scheduler.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/AP_Progmem/AP_Progmem.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/GCS_MAVLink/GCS_Common.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/GCS_MAVLink/GCS_MAVLink.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../APM/APM/ardupilot/libraries/RC_Channel/RC_Channel.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#200.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#202.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#203.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#224 ltc-basic_calculator.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/leetcode-candy.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/leetcode-count-primes #204.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/leetcode-decode_ways #91.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/ltc-basic_calculator_ii #227.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/LXY/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/LXY/v2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/LXY/v3.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AlgorithmPractice/LXY/v4.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/AppcodeCppTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/.idea/xcode.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/AppcodeCppTest.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/HHH.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/LKK.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/枚举.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/AppcodeCppTest/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/HHH/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/LKK/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/枚举/P1.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../AppcodeCppTest/枚举/P2.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/CPPPractice.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CPPPractice/CPPPractice/string1.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/CppTest.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/.idea/xcode.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/CppTest.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/CppTest.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/CppTest.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../CppTest/CppTest/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/OpGl.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Libraries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/OpenGL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/CVMCompiler" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/CVMServer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/DumpGPURestart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/Legacy/CVMCompiler" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/Legacy/libCoreVMClient.mono.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/Legacy/libLLVMContainer.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/ReportGPURestart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGL.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGLProgrammability.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGLU.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libGLVMPlugin.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/OpenGL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/BridgeSupport/OpenGL.bridgesupport" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/CVMSPlugin.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/CVMSPluginAll.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/CVMSPluginNoExec.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/GLByteCodes.i386.bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/GLByteCodes.x86_64.bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/GLEngine.bundle/GLEngine" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/GLRendererFloat.bundle/GLRendererFloat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/cvmsConfig.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/Resources/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/OpenGL.framework/module.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpGl/OpGl/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/OpenGL.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/GLUT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/GLUT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/BridgeSupport/GLUT.bridgesupport" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Caution.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Dutch.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Dutch.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Dutch.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Dutch.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Dutch.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/English.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/English.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/English.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/English.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/English.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/French.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/French.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/French.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/French.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/French.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/German.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/German.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/German.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/German.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/German.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Italian.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Italian.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Italian.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Italian.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Italian.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Japanese.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Japanese.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Japanese.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Japanese.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Japanese.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Spanish.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Spanish.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Spanish.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Spanish.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/Spanish.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ar.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ar.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ar.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ar.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ar.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/blankCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/bottomCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/bottomleftCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/bottomrightCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ca.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ca.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ca.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ca.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ca.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/crossCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cs.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cs.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cs.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cs.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cs.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/cycleCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/da.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/da.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/da.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/da.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/da.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/destroyCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/el.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/el.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/el.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/el.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/el.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/es_MX.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/es_MX.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/es_MX.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/es_MX.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/es_MX.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fi.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fi.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fi.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fi.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fi.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/fingerCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/he.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/he.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/he.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/he.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/he.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/helpCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hr.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hr.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hr.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hr.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hr.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hu.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hu.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hu.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hu.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/hu.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/id.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/id.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/id.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/id.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/id.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ko.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ko.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ko.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ko.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ko.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/leftCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/leftRightCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ms.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ms.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ms.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ms.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ms.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/no.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/no.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/no.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/no.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/no.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pl.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pl.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pl.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pl.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pl.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt_PT.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt_PT.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt_PT.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt_PT.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/pt_PT.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/rightArrowCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/rightCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ro.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ro.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ro.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ro.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ro.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ru.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ru.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ru.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ru.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/ru.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sk.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sk.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sk.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sk.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sk.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sprayCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sv.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sv.lproj/GLUTClipboard.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sv.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sv.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/sv.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/th.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/th.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/th.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/th.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/th.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/topCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/topleftCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/toprightCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/tr.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/tr.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/tr.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/tr.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/tr.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/uk.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/uk.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/uk.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/uk.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/uk.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/upDownCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/vi.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/vi.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/vi.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/vi.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/vi.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/waitCursor.tiff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_CN.lproj/GLUT.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_CN.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_CN.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_CN.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_CN.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_TW.lproj/GLUT.nib/objects.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_TW.lproj/GLUTClipboard.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_TW.lproj/GLUTPreferences.nib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_TW.lproj/GLUTUI.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/Resources/zh_TW.lproj/InfoPlist.strings" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/GLUT.framework/module.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Libraries" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/OpenGL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Resources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/CVMCompiler" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/CVMServer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/DumpGPURestart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/Legacy/CVMCompiler" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/Legacy/libCoreVMClient.mono.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/Legacy/libLLVMContainer.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/ReportGPURestart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libCVMSPluginSupport.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libCoreVMClient.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGFXShared.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGL.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGLProgrammability.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGLU.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libGLVMPlugin.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Libraries/libLLVMContainer.dylib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/OpenGL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/BridgeSupport/OpenGL.bridgesupport" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/CVMSPlugin.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/CVMSPluginAll.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/CVMSPluginNoExec.exp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/GLByteCodes.i386.bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/GLByteCodes.x86_64.bc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/GLEngine.bundle/GLEngine" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/GLRendererFloat.bundle/GLRendererFloat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/cvmsConfig.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/Resources/version.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/A/_CodeSignature/CodeResources" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/Versions/Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/OpenGL.framework/module.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../OpenGL/OpenGL/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/HelloWorld/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/HelloWorld.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/Test13.1.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1/classic.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1/classic.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Test13.1/Test13.1/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL.xcodeproj/project.pbxproj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/TestOPGL.xcscheme" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/AppDelegate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/AppDelegate.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/Base.lproj/Main.storyboard" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/ViewController.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/ViewController.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGL/main.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGLTests/Info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TestOPGL/TestOPGLTests/TestOPGLTests.m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../C___Primer_Practice/C++_Primer_Practice.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/../C___Primer_Practice/C++_Primer_Practice.xcodeproj/project.xcworkspace/xcuserdata/Esmidth.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#224.xcscheme" afterPath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/#224.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice/main.cpp" afterPath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AlgorithmPractice/ltc-basic_calculator_ii #227/main.cpp" afterPath="$PROJECT_DIR$/../AlgorithmPractice/ltc-basic_calculator_ii #227/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/../AlgorithmPractice/AlgorithmPractice.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../C___Primer_Practice/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../C___Primer_Practice/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AlgorithmPractice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../AlgorithmPractice/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/ACM-Practice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../C___Primer_Practice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../C___Primer_Practice/.idea/workspace.xml" />
     </list>
     <ignored path="ACM-Practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,7 +416,7 @@
       <file leaf-file-name="v2(Completed but not verifed).cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1687/v2(Completed but not verifed).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="578" max-vertical-offset="2159">
+            <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="2032">
               <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
@@ -52,8 +433,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Al_GreedySelection_Prac1/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1122">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="1072">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#150#168#0" expanded="true" />
               </folding>
@@ -64,7 +445,7 @@
       <file leaf-file-name="C1(test5).cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ACM_College_AC_3_5.31/C1(test5).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="357">
+            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="352">
               <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
@@ -74,7 +455,7 @@
       <file leaf-file-name="MultiWii.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../MW1/MW1/MultiWii.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5355" max-vertical-offset="18615">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5600" max-vertical-offset="22080">
               <caret line="350" column="5" selection-start-line="350" selection-start-column="5" selection-end-line="350" selection-end-column="5" />
               <folding />
             </state>
@@ -84,7 +465,7 @@
       <file leaf-file-name="B1(test2TLE).cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ACM_College_AC_3_5.31/B1(test2TLE).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.98973304" vertical-offset="822" max-vertical-offset="1360">
+            <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1280">
               <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding />
             </state>
@@ -94,7 +475,7 @@
       <file leaf-file-name="E.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ACM_College_AC_1_5/17/E.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="1292">
+            <state vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1216">
               <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding>
                 <element signature="e#135#153#0" expanded="true" />
@@ -106,7 +487,7 @@
       <file leaf-file-name="algorithm" pinned="false" current-in-tab="false">
         <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="11917" max-vertical-offset="98107">
+            <state vertical-scroll-proportion="0.0" vertical-offset="11216" max-vertical-offset="92336">
               <caret line="701" column="70" selection-start-line="701" selection-start-column="70" selection-end-line="701" selection-end-column="70" />
               <folding />
             </state>
@@ -116,7 +497,7 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DP(Homework#1)/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1071">
+            <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1008">
               <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
               <folding />
             </state>
@@ -153,9 +534,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
+    <option name="x" value="74" />
     <option name="y" value="23" />
-    <option name="width" value="1370" />
+    <option name="width" value="1366" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -211,34 +592,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ACM-Practice" />
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACM-Practice" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Al_GreedySelection_Prac1" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACM-Practice" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACM_College_AC_3_5.31" />
-              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -554,8 +907,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="1370" height="877" extended-state="6" />
-    <editor active="true" />
+    <frame x="74" y="23" width="1366" height="877" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -563,21 +916,21 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33972603" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25301206" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="487" y="140" width="306" height="520" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="487" y="140" width="306" height="520" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32325888" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39908952" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3241107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2674572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2674572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -606,6 +959,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DP(Homework#1)/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1008">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="appcode.project-settings://3193b1d5">
       <provider selected="true" editor-type-id="AppCode.ProjectSettings">
         <state />
@@ -615,7 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="357">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,7 +1230,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,7 +1237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -889,7 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -934,8 +1288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Al_GreedySelection_Prac1/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1122">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="112" max-vertical-offset="1072">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#150#168#0" expanded="true" />
           </folding>
@@ -960,7 +1314,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ACM_College_AC_3_5.31/B1(test2TLE).cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.98973304" vertical-offset="822" max-vertical-offset="1360">
+        <state vertical-scroll-proportion="0.0" vertical-offset="320" max-vertical-offset="1280">
           <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
           <folding />
         </state>
