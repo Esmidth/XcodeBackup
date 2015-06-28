@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C7C8A9280451252E3FCB09B9"
+               BuildableName = "leetcode-happy_number #202"
+               BlueprintName = "leetcode-happy_number #202"
+               ReferencedContainer = "container:AlgorithmPractice.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C7C8A9280451252E3FCB09B9"
+            BuildableName = "leetcode-happy_number #202"
+            BlueprintName = "leetcode-happy_number #202"
+            ReferencedContainer = "container:AlgorithmPractice.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
