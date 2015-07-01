@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93e82864-18db-46c3-9bee-504b1b0121d9" name="Default" comment="2015.6.28">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AlgorithmPractice.xcodeproj/xcuserdata/Esmidth.xcuserdatad/xcschemes/ltc#155.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/#226 ltc-invert_binary_tree/main(AC).cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp" afterPath="$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AlgorithmPractice.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/AlgorithmPractice.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgorithmPractice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +32,7 @@
       <file leaf-file-name="V3(Runtime Error).cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#224 ltc-basic_calculator/V3(Runtime Error).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1728">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1616" max-vertical-offset="1728">
               <caret line="101" column="13" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -52,7 +54,7 @@
       <file leaf-file-name="main(AC).cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ltc-basic_calculator_ii #227/main(AC).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1856">
+            <state vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1856">
               <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="e#152#171#0" expanded="true" />
@@ -65,6 +67,16 @@
         <entry file="appcode.project-settings://e3661452">
           <provider selected="true" editor-type-id="AppCode.ProjectSettings">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main(AC).cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/#226 ltc-invert_binary_tree/main(AC).cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.93415636" vertical-offset="634" max-vertical-offset="1248">
+              <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -81,7 +93,7 @@
       <file leaf-file-name="Log.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Log.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="240">
               <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
@@ -91,9 +103,14 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="14256">
+            <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="14768">
               <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-              <folding />
+              <folding>
+                <marker date="1435730834000" expanded="true" signature="59:59832" placeholder="..." />
+                <marker date="1435730834000" expanded="true" signature="98:417" placeholder="..." />
+                <marker date="1435730834000" expanded="true" signature="201:417" placeholder="..." />
+                <marker date="1435730834000" expanded="true" signature="59733:59821" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -108,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main(AC).cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main(AC).cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.7318088" vertical-offset="223" max-vertical-offset="1200">
-              <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1200">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,6 +163,8 @@
         <option value="$PROJECT_DIR$/ltc-basic_calculator_ii #227/main(AC).cpp" />
         <option value="$PROJECT_DIR$/#155 ltc-min_stack/main.cpp" />
         <option value="$PROJECT_DIR$/Log.txt" />
+        <option value="$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp" />
+        <option value="$PROJECT_DIR$/#226 ltc-invert_binary_tree/main.cpp" />
       </list>
     </option>
   </component>
@@ -181,7 +200,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Cidr.FilesView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,8 +212,23 @@
               <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPractice" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="#226 ltc-invert_binary_tree" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Cidr.FilesView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +240,7 @@
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="#224 ltc-basic_calculator" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.ltc#155">
+  <component name="RunManager" selected="Application.ltc#226">
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="AlgorithmPractice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="AlgorithmPractice" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
@@ -330,6 +363,15 @@
       <ConfigurationWrapper RunnerId="AppRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="ltc#226" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="#226 ltc-invert_binary_tree" CONFIG_NAME="Debug" SCHEME_NAME="ltc#226" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="#226 ltc-invert_binary_tree" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <RunnerSettings RunnerId="AppRunner" />
+      <ConfigurationWrapper RunnerId="AppRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="ltc#227" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="AlgorithmPractice" TARGET_NAME="ltc-basic_calculator_ii #227" CONFIG_NAME="Debug" SCHEME_NAME="ltc#227" RUN_TARGET_PROJECT_NAME="AlgorithmPractice" RUN_TARGET_NAME="ltc-basic_calculator_ii #227" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
@@ -365,7 +407,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="17">
+    <list size="18">
       <item index="0" class="java.lang.String" itemvalue="Application.AlgorithmPractice" />
       <item index="1" class="java.lang.String" itemvalue="Application.MaxLISLength" />
       <item index="2" class="java.lang.String" itemvalue="Application.ltc#202" />
@@ -378,11 +420,12 @@
       <item index="9" class="java.lang.String" itemvalue="Application.LXY" />
       <item index="10" class="java.lang.String" itemvalue="Application.#224" />
       <item index="11" class="java.lang.String" itemvalue="Application.ltc#155" />
-      <item index="12" class="java.lang.String" itemvalue="Application.ltc#227" />
-      <item index="13" class="java.lang.String" itemvalue="Application.temp" />
-      <item index="14" class="java.lang.String" itemvalue="Application.UVa 340 #Master-Mind Hints" />
-      <item index="15" class="java.lang.String" itemvalue="Application.AlTest" />
-      <item index="16" class="java.lang.String" itemvalue="Application.test" />
+      <item index="12" class="java.lang.String" itemvalue="Application.ltc#226" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ltc#227" />
+      <item index="14" class="java.lang.String" itemvalue="Application.temp" />
+      <item index="15" class="java.lang.String" itemvalue="Application.UVa 340 #Master-Mind Hints" />
+      <item index="16" class="java.lang.String" itemvalue="Application.AlTest" />
+      <item index="17" class="java.lang.String" itemvalue="Application.test" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -439,25 +482,25 @@
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285151" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38964579" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3074018" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32457292" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30362538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31193355" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32279316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928678" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -516,29 +559,12 @@
           <line>58</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp</url>
-          <line>28</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp</url>
-          <line>27</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MaxLISLength/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="748">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="appcode.project-settings://e3661452">
       <provider selected="true" editor-type-id="AppCode.ProjectSettings">
         <state />
@@ -841,11 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="appcode.project-settings://e3661452">
-      <provider selected="true" editor-type-id="AppCode.ProjectSettings">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/#224 ltc-basic_calculator/V3(Runtime Error).cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="1728">
@@ -858,9 +879,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="16" max-vertical-offset="14256">
+        <state vertical-scroll-proportion="0.0" vertical-offset="80" max-vertical-offset="14640">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
+          <folding>
+            <marker date="1435730834000" expanded="true" signature="59:59832" placeholder="..." />
+            <marker date="1435730834000" expanded="true" signature="98:417" placeholder="..." />
+            <marker date="1435730834000" expanded="true" signature="201:417" placeholder="..." />
+            <marker date="1435730834000" expanded="true" signature="59733:59821" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -882,8 +908,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/#155 ltc-min_stack/main(AC).cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7318088" vertical-offset="223" max-vertical-offset="1200">
-          <caret line="66" column="21" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="1200">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="appcode.project-settings://e3661452">
+      <provider selected="true" editor-type-id="AppCode.ProjectSettings">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/#226 ltc-invert_binary_tree/main(AC).cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93415636" vertical-offset="634" max-vertical-offset="1248">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
           <folding />
         </state>
       </provider>

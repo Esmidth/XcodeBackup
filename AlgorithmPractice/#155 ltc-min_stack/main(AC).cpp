@@ -24,7 +24,7 @@ private:
     int min;
 };
 int main(int argc, const char * argv[]) {
-    Minstack a;
+    Minstack a = Minstack();
     a.push(2);
     a.push(0);
     a.push(3);
