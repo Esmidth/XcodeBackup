@@ -9,3 +9,5 @@
 //New skills get -> Try to write test unit by myself
 2015.6.28   #155    AC
 2015.7.3    #208    AC(Not by myself)
+2015.8.24   #263    AC(Not by myself)
+2015.8.25   #264    AC(Not by myself)

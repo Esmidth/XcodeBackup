@@ -27,12 +27,22 @@
 		<key>#224.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>13</integer>
+			<integer>5</integer>
+		</dict>
+		<key>#263 ltc-ugly-number.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>#264 ltc-ugly_numbers_II.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
 		</dict>
 		<key>AlTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>14</integer>
+			<integer>6</integer>
 		</dict>
 		<key>AlgorithmPractice.xcscheme</key>
 		<dict>
@@ -42,17 +52,17 @@
 		<key>LXY.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>3</integer>
+			<integer>1</integer>
 		</dict>
 		<key>MaxLISLength.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>8</integer>
+			<integer>2</integer>
 		</dict>
 		<key>UVa 340 #Master-Mind Hints.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>10</integer>
+			<integer>4</integer>
 		</dict>
 		<key>leetcode-candy.xcscheme</key>
 		<dict>
@@ -69,6 +79,61 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>ltc#135.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>ltc#155.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>ltc#200.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>ltc#202.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>ltc#203.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>ltc#204.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>ltc#208.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>ltc#224.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>ltc#226.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>ltc#227.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>ltc#91.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
 		<key>ltc-basic_calculator_ii #227.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -77,17 +142,22 @@
 		<key>temp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>9</integer>
+			<integer>3</integer>
 		</dict>
 		<key>test.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>15</integer>
+			<integer>7</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>A50B1DBC1B1CAD3800154C95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A516A97B1B8B77BB00809FC9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -103,6 +173,11 @@
 			<true/>
 		</dict>
 		<key>A5839CAF1AD7CA5F006A3909</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A58C98401B8B3E9B005A2991</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -142,6 +217,16 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>C7C8A0F97265D0621A43325E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8A19DBB49F0AD721B54A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>C7C8A923FDB10A6CDE68C622</key>
 		<dict>
 			<key>primary</key>
@@ -158,6 +243,11 @@
 			<true/>
 		</dict>
 		<key>C7C8AE076257B6C406F70804</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C7C8AF97BE7C3C28E35BD0DC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
