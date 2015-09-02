@@ -29,6 +29,11 @@
 			<key>orderHint</key>
 			<integer>5</integer>
 		</dict>
+		<key>#258 ltc-add_digits.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
 		<key>#263 ltc-ugly-number.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -38,6 +43,16 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>20</integer>
+		</dict>
+		<key>#273 ltc-Integer_2_English_Words.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>#7 ltc-reverse_integer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
 		</dict>
 		<key>AlTest.xcscheme</key>
 		<dict>
@@ -149,10 +164,25 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>test2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>A50B1DBC1B1CAD3800154C95</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A5122AF01B8D5EEB009740FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A512D8DF1B8DD14D009A8D48</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -168,6 +198,16 @@
 			<true/>
 		</dict>
 		<key>A5358A341B007FC9002C9371</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A53FD20F1B97548000053CF8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A57CA4721B8DF7EC001B7FB3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

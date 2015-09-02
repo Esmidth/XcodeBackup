@@ -1,0 +1,16 @@
+//
+//  Problems
+//  Text
+//  ----------------------------------
+//  Developed with embedXcode
+//
+//  Project 	AlgorithmPractice
+//  Created by 	Steven Chang on 9/3/15
+//  Copyright 	© 2015 Steven Chang
+//  License	<#license#>
+//
+
+
+#273
+string 的最后一个位置是" "
+如何去掉这一个空格，除了制作一个副本

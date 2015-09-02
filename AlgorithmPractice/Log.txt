@@ -11,3 +11,6 @@
 2015.7.3    #208    AC(Not by myself)
 2015.8.24   #263    AC(Not by myself)
 2015.8.25   #264    AC(Not by myself)
+2015.8.26   #258    AC(Know something new about Digital Root)
+2015.8.26   #7      AC
+2015.9.2    #273    AC
